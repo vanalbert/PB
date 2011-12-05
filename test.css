@@ -1,0 +1,54 @@
+body {
+	font: 14px/23px Verdana,sans-serif; 
+} 
+
+h2 {
+	font-family: "IM Fell DW Pica",sans-serif;	
+
+}
+
+
+
+#content {
+	width: 800px;
+	height: 600px;
+	border: 1px solid green;
+}
+
+#content h2.home-top {
+	font-size: 300%;
+	line-height: 1em;
+	text-align: center;
+	text-decoration: underline;
+	}
+
+#content h2.home-red {
+	font-size: 240%;
+	line-height: 1em;
+	text-align: center;
+	color: red;
+	}
+
+
+ #content span.drop-cap {
+	 font-size: 120%;
+	 line-height: 0.85em;
+	 margin-right: -0.03em;
+	 margin-bottom:-0.25em;
+ }
+
+#content p.crimson {
+	font-family: "Book Antiqua",Arial;	
+	font-size: 160%;
+	line-height: 1.2em;
+	color: #930;
+	text-align: center;
+	}
+
+#content p.standard {
+	font-family: "Book Antiqua",Arial;	
+	font-size: 140%;
+	line-height: 1.1em;
+	color: #000;
+	text-align: center;
+}
