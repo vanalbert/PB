@@ -145,8 +145,6 @@
   <div id="main-wrapper"><div id="main" class="clearfix<?php if ($main_menu || $page['navigation']) { print ' with-navigation'; } ?>">
 
     <div id="content" class="column"><div class="section">
-	
-	<!-- VE - commenting out unused content 
       <?php print render($page['highlighted']); ?>
       <?php print $breadcrumb; ?>
       <a id="main-content"></a>
@@ -163,10 +161,8 @@
       <?php if ($action_links): ?>
         <ul class="action-links"><?php print render($action_links); ?></ul>
       <?php endif; ?>
-	  
-	  VE commented out the above -->
       <?php print render($page['content']); ?>
-      <!-- <?php print $feed_icons; ?> -->
+      <?php print $feed_icons; ?>
     </div></div><!-- /.section, /#content -->
 
     <?php if ($page['navigation'] || $main_menu): ?>

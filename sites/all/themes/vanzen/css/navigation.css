@@ -19,14 +19,9 @@
  
  
 ul#main-menu {
-	width: 700px;
-	height: 40px;
-	border: 1px solid blue;
-
   	/* VE */
   	text-transform: uppercase;
-	margin: 0 0 0 25px;
-  
+	margin: 0 0 0 80px;
 }
  
 ul#main-menu li a {
@@ -45,6 +40,17 @@ ul#main-menu li {
     padding: 0 10px 0 0; /* LTR */
 }
 
+
+.alpha60 {
+/* Fallback for web browsers that doesn't support RGBa */
+background: rgb(0, 0, 0) transparent;
+/* RGBa with 0.6 opacity */
+background: rgba(0, 0, 0, 0.6);
+/* For IE 5.5 - 7*/
+filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000);
+/* For IE 8*/
+-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000)";
+}
 
 
 

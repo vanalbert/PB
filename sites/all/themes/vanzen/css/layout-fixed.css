@@ -52,6 +52,7 @@ body {
 #header {
 /* VE */
 	background-color: #180800;
+	border-bottom: 1px solid gold;
 }
 
 #header .section {
@@ -68,6 +69,7 @@ body {
 }
 
 #main {
+	background-color: #180800;
 }
 
 /*
@@ -84,9 +86,10 @@ h1#page-title {
   float: left; /* LTR */
   width: 780px;
   margin-left: 0; /* LTR */
-  margin-right: -780px; /* LTR */ /* Negative value of #content's width + left margin. */
+  /* margin-right: -780px;  LTR   Negative value of #content's width + left margin. */
   padding: 0; /* DO NOT CHANGE. Add padding or margin to #content .section. */
-  border: 5px solid blue;
+	background-color: #180800;
+
 }
 
  /* VE - Custom PB styles */
@@ -95,27 +98,35 @@ h1#page-title {
  
  
 #content-intro {
-	height: 781px;
 	width: 840px;
-	background-image:url(../images/monastery.jpg);
-	
-
+	background-image:url(../images/monastery.jpg);	
+	height: 426px;
+	width: 800px;
+	background-color: #180800;
+	margin: 10px 0 0px 20px;
+	border: 1px solid white;
 }
+
+
  
-#content h2.intro-one {
-	font-size: 300%;
+#content-intro h2.intro-one {
+	font-size: 240%;
+	width: 600px;
 	line-height: 1em;
+	color: #FFF;
 	text-align: center;
 	text-decoration: underline;
-	margin: 20px 10px 0 10px;
+	margin: 0px 10px 50px 120px;
+	padding-top: 30px;
 	}
 	
 #content h2.intro-two {
-	font-size: 240%;
+	font-size: 200%;
+	width: 600px;
 	line-height: 1em;
 	text-align: center;
-	color: red;
-	margin: 20px 10px 0 10px;
+	color: #f5d975;
+	margin: 20px 10px 40px 120px;
 	}
 
  #content span.drop-cap {
@@ -129,22 +140,50 @@ h1#page-title {
 	font-family: "Book Antiqua",Arial;	
 	font-size: 140%;
 	line-height: 1.2em;
-	color: #930;
+	color: #d9cfd8;
 	text-align: center;
-	margin: 20px 10px 0 10px;
+	margin: 20px 10px 25px 10px;
+	padding: 20px;
 	}
+	
+#content p.what-if {
+	font-family: "Book Antiqua",Arial;	
+	font-size: 180%;
+	width: 620px;
+	font-weight: bold;
+	line-height: 1.1em;
+	font-weight: bold;
+	color: white;
+	text-align: center;
+	margin: 20px 10px 0 110px;
+}
 
 #content p.standard {
 	font-family: "Book Antiqua",Arial;	
-	font-size: 140%;
+	font-size: 180%;
 	line-height: 1.1em;
 	font-weight: bold;
-	color: #000;
+	color: red;
 	text-align: center;
-	margin: 20px 10px 0 10px;
+	margin: 10px 10px 0 10px;
+	padding: 10px;
+}
+
+#content-body {
+	background-color: #d8d09c;	
+	width: 800px;
+	background-color: #d8d09c;
+	margin: 0px 0 0 20px;
+	border: 1px solid white;
+
+}
+
+#group-large-img {
+	margin: 10px 0 10px 120px;
 }
 
 dl {
+	display: block;
 	margin: 20px;
 	padding: 0;
 }
@@ -176,27 +215,26 @@ dl {
  * Navigation
  */
  
- /* VE - added nav-container to hold the menu above the logo in the header, since it wasn't displaying correctly without the extra container 
+ /* VE - added nav-container to hold the menu above the logo in the header, since it wasn't displaying correctly without the extra container */
  #nav-container {
 	 height: 40px;
-	 width: 800px;
-	 margin-left: 30px;
+	 width: 840px;
+	 margin-left: 0px;
 	 background-color: #180800;
-	 margin-bottom: 40px;
+	 border-bottom: 1px solid gold;
+	 margin-bottom: 10px;
  }
- */
+ 
+
  
 #navigation {
 	/* VE changing this so the div is visible after moving the nav div to the header */
 
   width: 100%;
   background-color: #180800;
-  
-  
-	
   float: left; /* LTR */
   /* width: 100%; */	
-  margin-left: 0; /* LTR */
+  margin-left: 0px; /* VE - LTR */
   margin-right: -100%; /* LTR */ /* Negative value of #navigation's width + left margin. */
   padding: 0; /* DO NOT CHANGE. Add padding or margin to #navigation .section. */
   height: 3em; /* The navigation can have any arbritrary height. We picked one
