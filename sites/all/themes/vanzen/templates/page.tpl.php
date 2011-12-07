@@ -103,7 +103,9 @@
       <a href="<?php print $front_page; ?>" title="<?php print t('Home'); ?>" rel="home" id="logo"><img src="<?php print $logo; ?>" alt="<?php print t('Home'); ?>" /></a>
     <?php endif; ?>
 
-    <?php if ($site_name || $site_slogan): ?>
+
+	<!-- VE Commenting this out because I won't be toggling the sitename or slogan on or off -->
+<!--    <?php if ($site_name || $site_slogan): ?>
       <div id="name-and-slogan">
         <?php if ($site_name): ?>
           <?php if ($title): ?>
@@ -121,7 +123,8 @@
           <div id="site-slogan"><?php print $site_slogan; ?></div>
         <?php endif; ?>
       </div><!-- /#name-and-slogan -->
-    <?php endif; ?>
+    <?php endif; ?> -->
+    
 
     <?php print theme('links__system_secondary_menu', array(
       'links' => $secondary_menu,

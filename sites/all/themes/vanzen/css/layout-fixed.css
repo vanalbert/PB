@@ -130,7 +130,7 @@ h1#page-title {
 	}
 
  #content span.drop-cap {
-	 font-size: 120%;
+	 font-size: 160%;
 	 line-height: 0.85em;
 	 margin-right: -0.03em;
 	 margin-bottom:-0.25em;
@@ -175,8 +175,48 @@ h1#page-title {
 	background-color: #d8d09c;
 	margin: 0px 0 0 20px;
 	border: 1px solid white;
-
 }
+
+p.regular {
+	font-family: "Book Antiqua",Arial;	
+	font-size: 140%;
+	line-height: 1.2em;
+	font-weight: bold;
+	color: black;
+	text-align: left;
+	margin: 10px 10px 0 10px;
+	padding: 10px;	
+}
+	
+
+#inline-image {
+	width: 760px;
+	margin: 0 0 0 20px;
+}
+
+img.inline-left {
+float: left;
+margin: 0 0 0 10px;
+padding: 0 25px 0 25px;	
+}
+
+p.alert {
+font-family: "Book Antiqua",Arial;	
+font-size: 140%;
+color: white;
+background-color: #ce7563;
+border: 1px solid red;
+width:680px;
+padding: 15px;
+margin: 0 0 15px 15px;
+text-align: center;
+	
+}
+
+span.red-text {
+color: red;	
+}
+
 
 #group-large-img {
 	margin: 10px 0 10px 120px;
