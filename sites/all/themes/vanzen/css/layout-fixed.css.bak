@@ -29,13 +29,12 @@ body {
    * this is the standards-compliant way to do that. See also the ie6.css file
    * for the necessary IE5/IE6quirks hack to center a div.
    */
-  margin-left: auto;
-  margin-right: auto;
-  width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+  	width: 960px;
 }
 
 #page {
-}
 
 /*
  * Header
@@ -62,6 +61,7 @@ body {
 /*
  * Content
  */
+  
 #content,
 .no-sidebars #content {
   float: left; /* LTR */
@@ -70,6 +70,8 @@ body {
   margin-right: -960px; /* LTR */ /* Negative value of #content's width + left margin. */
   padding: 0; /* DO NOT CHANGE. Add padding or margin to #content .section. */
 }
+
+
 
 .sidebar-first #content {
   width: 760px;
@@ -90,31 +92,34 @@ body {
 }
 
 #content .section {
-  margin: 0;
+  /* VE margin: 20px; */
   padding: 0;
 }
 
 /*
  * Navigation
-
-
-
-
-
-
-
-
-
-
-
-
-
-
  */
+ 
+ /* VE - added nav-container to hold the menu above the logo in the header, since it wasn't displaying correctly without the extra container */
+ #nav-container {
+	 height: 40px;
+	 width: 840px;
+	 margin-left: 0px;
+	 background-color: #180800;
+	 border-bottom: 1px solid gold;
+	 margin-bottom: 10px;
+ }
+ 
+
+ 
 #navigation {
-  float: left; /* LTR */
+	/* VE changing this so the div is visible after moving the nav div to the header */
+
   width: 100%;
-  margin-left: 0; /* LTR */
+  background-color: #180800;
+  float: left; /* LTR */
+  /* width: 100%; */	
+  margin-left: 0px; /* VE - LTR */
   margin-right: -100%; /* LTR */ /* Negative value of #navigation's width + left margin. */
   padding: 0; /* DO NOT CHANGE. Add padding or margin to #navigation .section. */
   height: 3em; /* The navigation can have any arbritrary height. We picked one
@@ -122,12 +127,14 @@ body {
                     Set this to the same value as the margin-top below. */
 }
 
+
+/* VE - commented out to get rid of space below header
 .with-navigation #content,
 .with-navigation .region-sidebar-first,
 .with-navigation .region-sidebar-second {
   margin-top: 3em; /* Set this to the same value as the navigation height above. */
 }
-
+*/
 #navigation .section {
 }
 

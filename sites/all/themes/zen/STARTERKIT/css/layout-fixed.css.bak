@@ -96,20 +96,6 @@ body {
 
 /*
  * Navigation
-
-
-
-
-
-
-
-
-
-
-
-
-
-
  */
 #navigation {
   float: left; /* LTR */

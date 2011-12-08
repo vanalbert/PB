@@ -20,10 +20,6 @@
  * Body
  */
 body {
-	/* VE */
-	/* VE disabled for using Google fonts - font: 14px/23px "Lucida Grande","Lucida Sans","Lucida Sans Unicode","Lucida",Verdana,"Bitstream Vera Sans",sans-serif; */
-	background-image: url(../images/bg-noise.gif);
-	background-color: #180800;
 }
 
 #page-wrapper,
@@ -35,24 +31,15 @@ body {
    */
 	margin-left: auto;
 	margin-right: auto;
-	/* VE */
-	margin-top: 10px;
-  	width: 840px;
-	background-color: #FFFFFF;
-	border: 1px solid gold;
+  	width: 960px;
 }
 
 #page {
-	/* VE -tried changing top, margin and padding here but it didn't get rid of the whitesspace above the page wrapper */
-}
 
 /*
  * Header
  */
 #header {
-/* VE */
-	background-color: #180800;
-	border-bottom: 1px solid gold;
 }
 
 #header .section {
@@ -69,163 +56,19 @@ body {
 }
 
 #main {
-	background-color: #180800;
 }
 
 /*
  * Content
  */
- 
- /* VE - turn off Home page title */
-h1#page-title {
-	display: none;
-}
- 
+  
 #content,
 .no-sidebars #content {
   float: left; /* LTR */
-  width: 780px;
+  width: 960px;
   margin-left: 0; /* LTR */
-  /* margin-right: -780px;  LTR   Negative value of #content's width + left margin. */
+  margin-right: -960px; /* LTR */ /* Negative value of #content's width + left margin. */
   padding: 0; /* DO NOT CHANGE. Add padding or margin to #content .section. */
-	background-color: #180800;
-
-}
-
- /* VE - Custom PB styles */
- 
- /* VE - H2 on home page, no highlight, underline */
- 
- 
-#content-intro {
-	width: 840px;
-	background-image:url(../images/monastery.jpg);	
-	height: 426px;
-	width: 800px;
-	background-color: #180800;
-	margin: 10px 0 0px 20px;
-	border: 1px solid white;
-}
-
-
- 
-#content-intro h2.intro-one {
-	font-size: 240%;
-	width: 600px;
-	line-height: 1em;
-	color: #FFF;
-	text-align: center;
-	text-decoration: underline;
-	margin: 0px 10px 50px 120px;
-	padding-top: 30px;
-	}
-	
-#content h2.intro-two {
-	font-size: 200%;
-	width: 600px;
-	line-height: 1em;
-	text-align: center;
-	color: #f5d975;
-	margin: 20px 10px 40px 120px;
-	}
-
- #content span.drop-cap {
-	 font-size: 160%;
-	 line-height: 0.85em;
-	 margin-right: -0.03em;
-	 margin-bottom:-0.25em;
- }
-
-#content p.intro-three {
-	font-family: "Book Antiqua",Arial;	
-	font-size: 140%;
-	line-height: 1.2em;
-	color: #d9cfd8;
-	text-align: center;
-	margin: 20px 10px 25px 10px;
-	padding: 20px;
-	}
-	
-#content p.what-if {
-	font-family: "Book Antiqua",Arial;	
-	font-size: 180%;
-	width: 620px;
-	font-weight: bold;
-	line-height: 1.1em;
-	font-weight: bold;
-	color: white;
-	text-align: center;
-	margin: 20px 10px 0 110px;
-}
-
-#content p.standard {
-	font-family: "Book Antiqua",Arial;	
-	font-size: 180%;
-	line-height: 1.1em;
-	font-weight: bold;
-	color: red;
-	text-align: center;
-	margin: 10px 10px 0 10px;
-	padding: 10px;
-}
-
-#content-body {
-	background-color: #d8d09c;	
-	width: 800px;
-	background-color: #d8d09c;
-	margin: 0px 0 0 20px;
-	border: 1px solid white;
-}
-
-p.regular {
-	font-family: "Book Antiqua",Arial;	
-	font-size: 140%;
-	line-height: 1.2em;
-	font-weight: bold;
-	color: black;
-	text-align: left;
-	margin: 10px 10px 0 10px;
-	padding: 10px;	
-}
-	
-
-#inline-image {
-	width: 760px;
-	margin: 0 0 0 20px;
-}
-
-img.inline-left {
-float: left;
-margin: 0 0 0 10px;
-padding: 0 25px 0 25px;	
-}
-
-p.alert {
-font-family: "Book Antiqua",Arial;	
-font-size: 140%;
-color: white;
-background-color: #ce7563;
-border: 1px solid red;
-width:680px;
-padding: 15px;
-margin: 0 0 15px 15px;
-text-align: center;
-	
-}
-
-span.red-text {
-color: red;	
-}
-
-
-#group-large-img {
-	margin: 10px 0 10px 120px;
-}
-
-dl {
-	display: block;
-	margin: 20px;
-	padding: 0;
 }
 
 .sidebar-first #content {
@@ -247,7 +90,7 @@ dl {
 }
 
 #content .section {
-  /* VE margin: 20px; */
+  margin: 0;
   padding: 0;
 }
 
