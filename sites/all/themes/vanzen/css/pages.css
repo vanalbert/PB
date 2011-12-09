@@ -34,6 +34,20 @@ body {
 #page {
 }
 
+/* Default character styles */
+p {
+	font-family: "Book Antiqua", Palatino, "Times New Roman", serif;
+	font-size: 100%;
+	}
+
+
+
+
+
+
+
+
+
 /*
  * The skip-link link will be completely hidden until a user tabs to the link.
  * See the element-focusable rule in system.base.css.
@@ -157,7 +171,15 @@ h1#page-title {
 
  /* VE - CUSTOM PB PAGE STYLES */
  
-
+ a:link {
+	color: #C6B663;
+	font-weight: bold;
+	}
+ 
+ a:hover, a:active, a:visited {
+	color: #C6B663;
+	font-weight: bold;
+	}
  
  
 #content-intro {
@@ -232,7 +254,7 @@ h1#page-title {
 	padding: 10px;
 }
 
-#content-body {
+#content-body-wrap {
 	background-color: #d8d09c;	
 	width: 800px;
 	background-color: #d8d09c;
@@ -240,8 +262,27 @@ h1#page-title {
 	border: 1px solid white;
 }
 
+.box-white {
+	width: 740px;
+	background-color: white;
+	border: 1px solid red; 
+	margin: 15px 35px 0 30px;
+}
+
+.box-bg {
+	width: 740px;
+	background-color: #d8d09c;
+	margin: 15px 35px 0 45px;
+}
+
+#content-body-grouplarge {
+	margin: 0 20px 0 100px;
+}
+	
+
+
 p.regular {
-	font-family: "Book Antiqua",Arial;	
+	font-family: "Book Antiqua", Palatino, "Times New Roman", serif;	
 	font-size: 140%;
 	line-height: 1.2em;
 	font-weight: bold;
@@ -250,12 +291,85 @@ p.regular {
 	margin: 10px 10px 0 10px;
 	padding: 10px;	
 }
-	
 
-#inline-image {
-	width: 760px;
-	margin: 0 0 0 20px;
+p.now-you-can {
+	font-family: "Book Antiqua", Palatino, "Times New Roman", serif;
+	font-size: 170%;
+	line-height: 1.1em;
+	font-weight: bold;
+	color: red;
+	margin: 15px 0 15px 40px;
+	text-align: center;
 }
+
+/* About Page styles */
+	
+#inline-image {
+	width: 720px;
+	margin: 0 0 0 20px;
+	font-size: 100%;
+}
+
+#content-about {
+	width: 840px;
+	background-image:url(../images/monastery.jpg);
+	background-repeat: no-repeat;
+	width: 800px;
+	background-color: #180800;
+	margin: 10px 0 20px 20px;
+}
+
+#content-about-frame {
+border: 1px solid white;
+}
+
+.text-box {
+	width: 720px;
+	margin: 0 0 0 40px;
+
+}
+
+#content-about h2 {
+	font-size: 220%;
+	width: 600px;
+	line-height: 1em;
+	color: #C6B663;
+	text-align: left;
+	text-decoration: underline;
+	margin: 0px 0px 20px 40px;
+	padding-top: 10px;
+
+	}
+	
+#content-about h3 {
+	font-size: 160%;
+	width: 600px;
+	line-height: 1em;
+	text-align: center;
+	color: #C6B663;
+	margin: 0px 10px 0px 80px;
+	}
+	
+#content-about h4 {
+	font-size: 140%;
+	width: 600px;
+	line-height: 1em;
+	text-align: center;
+	color: white;
+	margin: 0px 10px 0px 80px;
+	}
+	
+p.about {
+	font-family: Arial, sans serif;
+	font-size: 16px;
+	font-style: none;
+	font-weight: normal;
+	color: #FFF;
+}
+
+#content-about a  {
+	color: #C6B663;
+	}
 
 img.inline-left {
 float: left;
@@ -264,12 +378,12 @@ padding: 0 25px 0 25px;
 }
 
 p.alert {
-font-family: "Book Antiqua",Arial;	
+font-family: "Book Antiqua", Palatino, "Times New Roman", serif;	
 font-size: 140%;
 color: white;
 background-color: #ce7563;
 border: 1px solid red;
-width:680px;
+width:640px;
 padding: 15px;
 margin: 0 0 15px 15px;
 text-align: center;
@@ -278,6 +392,10 @@ text-align: center;
 
 span.red-text {
 color: red;	
+}
+
+span.uline {
+	text-decoration: underline;
 }
 
 span.highlight {
@@ -294,7 +412,7 @@ background-color: #FFFF00;
 }
 
 #divider {
-	margin: 20px 0 0 0;
+	margin: 20px 0 30px 50px;
 	}
 
 
