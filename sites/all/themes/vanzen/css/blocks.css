@@ -21,7 +21,16 @@
 }
 
 h2.block-title /* Block title */ {
+	margin: 15px 0 0 15px;
+	color: white;
+
 }
+
+
+
+
+
+
 
 .block .content /* Block's content wrapper */ {
 }

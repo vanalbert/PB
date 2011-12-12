@@ -269,11 +269,19 @@ h1#page-title {
 	margin: 15px 35px 0 30px;
 }
 
-.box-bg {
+.box-red-bg {
 	width: 740px;
 	background-color: #d8d09c;
 	margin: 15px 35px 0 45px;
 }
+
+.box-gold-bg {
+	width: 680px;
+	background-color: #C6B663;
+	padding-top: 1px;
+	/* VE I don't understand why if I put any padding in here it increases the vertical padding by 30px. */
+}
+
 
 #content-body-grouplarge {
 	margin: 0 20px 0 100px;
@@ -283,9 +291,8 @@ h1#page-title {
 
 p.regular {
 	font-family: "Book Antiqua", Palatino, "Times New Roman", serif;	
-	font-size: 140%;
+	font-size: 130%;
 	line-height: 1.2em;
-	font-weight: bold;
 	color: black;
 	text-align: left;
 	margin: 10px 10px 0 10px;
@@ -310,7 +317,7 @@ p.now-you-can {
 	font-size: 100%;
 }
 
-#content-about {
+#content-about, #content-startnow {
 	width: 840px;
 	background-image:url(../images/monastery.jpg);
 	background-repeat: no-repeat;
@@ -319,7 +326,7 @@ p.now-you-can {
 	margin: 10px 0 20px 20px;
 }
 
-#content-about-frame {
+#content-about-frame, #content-startnow-frame {
 border: 1px solid white;
 }
 
@@ -329,7 +336,7 @@ border: 1px solid white;
 
 }
 
-#content-about h2 {
+#content-about h2, #content-startnow h2 {
 	font-size: 220%;
 	width: 600px;
 	line-height: 1em;
@@ -341,7 +348,7 @@ border: 1px solid white;
 
 	}
 	
-#content-about h3 {
+#content-about h3, #content-startnow h3 {
 	font-size: 160%;
 	width: 600px;
 	line-height: 1em;
@@ -350,7 +357,7 @@ border: 1px solid white;
 	margin: 0px 10px 0px 80px;
 	}
 	
-#content-about h4 {
+#content-about h4, #content-startnow  h4 {
 	font-size: 140%;
 	width: 600px;
 	line-height: 1em;
@@ -359,7 +366,17 @@ border: 1px solid white;
 	margin: 0px 10px 0px 80px;
 	}
 	
-p.about {
+#content-startnow p {
+	font-family: "Book Antiqua", Palatino, "Times New Roman", serif;
+	color: white;
+	font-size: 130%;
+	font-weight: normal;
+
+
+
+}
+	
+p.about, p.startnow {
 	font-family: Arial, sans serif;
 	font-size: 16px;
 	font-style: none;
@@ -394,12 +411,40 @@ span.red-text {
 color: red;	
 }
 
+span.gold-text {
+color: gold;
+}
+
+span.black-text {
+color: #000000;
+}
+
+
+span.green-text {
+color: #A5B284;	
+}
+
+
 span.uline {
 	text-decoration: underline;
 }
 
-span.highlight {
-background-color: #FFFF00
+span.bold-red {
+	font-weight: bold:
+	color: red;
+}
+
+span.hl-yellow {
+	background-color: #FFFF00
+}
+
+span.hl-gold {
+	background-color: gold;
+}
+
+span.hl-red-gold {
+	background-color: gold;
+	color: red;
 }
 
 span.red-highlight {
@@ -421,6 +466,29 @@ dl {
 	margin: 20px;
 	padding: 0;
 }
+
+ol.disc {
+	margin-left: 20px;
+	}
+
+ol.disc li {
+    font-weight: bold;
+    line-height: 26px;
+    margin: 5px 0;
+    padding-left: 10px;
+	background-color: gold;
+	font-size: 16px;
+	width: 240px;
+
+}
+
+
+
+
+
+
+
+
 
 /* END CUSTOM PB STYLES - VE */
 

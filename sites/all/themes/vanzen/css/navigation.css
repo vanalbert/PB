@@ -41,22 +41,9 @@ ul#main-menu li {
 }
 
 
-.alpha60 {
-/* Fallback for web browsers that doesn't support RGBa */
-background: rgb(0, 0, 0) transparent;
-/* RGBa with 0.6 opacity */
-background: rgba(0, 0, 0, 0.6);
-/* For IE 5.5 - 7*/
-filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000);
-/* For IE 8*/
--ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000)";
-}
-
-
-
 
 /*
- * Navigation bar
+ * Navigation bar - This regulates the main navigation bar for the site, ignore the one in page.tpl.php - VE
  */
 #navigation {
   /* overflow: hidden; /* Sometimes you want to prevent overlapping with main div. */
@@ -64,7 +51,7 @@ filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endCo
 
 #navigation ul.links, /* Main menu and secondary menu links */
 #navigation .content ul /* Menu block links */ {
-  margin: 0;
+  margin: 0 0 0 25px; /* VE */ 
   padding: 0;
   text-align: left; /* LTR */
 }

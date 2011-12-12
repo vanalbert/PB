@@ -76,7 +76,7 @@
  <!-- VE -->
 
 
-<div id="nav-container" class="clearfix">
+<div id="navigation" class="clearfix">
 
 	<div class="section clearfix">
         <?php print theme('links__system_main_menu', array(
@@ -96,7 +96,6 @@
       </div> 
 
  </div><!-- #nav-container -->
-  
   
 
     <?php if ($logo): ?>
@@ -172,26 +171,10 @@
       <!-- <?php print $feed_icons; ?> -->
     </div></div><!-- /.section, /#content -->
 
-    <?php if ($page['navigation'] || $main_menu): ?>
-<!--      <div id="navigation"><div class="section clearfix">
+	
+	
+	<!-- VE Deleted the second navigation section to prevent second display of main navigation menu, compare original page.tpl.php -->
 
-        <?php print theme('links__system_main_menu', array(
-          'links' => $main_menu,
-          'attributes' => array(
-            'id' => 'main-menu',
-            'class' => array('links', 'inline', 'clearfix'),
-          ),
-          'heading' => array(
-            'text' => t('Main menu'),
-            'level' => 'h2',
-            'class' => array('element-invisible'),
-          ),
-        )); ?>
-
-        <?php print render($page['navigation']); ?>
-
-      </div></div><!-- /.section, /#navigation --> -->
-    <?php endif; ?>
 
     <?php print render($page['sidebar_first']); ?>
 
