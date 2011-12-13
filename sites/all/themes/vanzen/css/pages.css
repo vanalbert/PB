@@ -14,7 +14,7 @@
 body {
 
   /* VE edit */
-	font-family: "Book Antiqua", Palatino;
+	font-family: "Book Antiqua", Palatino, serif;
 	background-image: url(../images/bg-noise.gif);
 	background-color: #180800;
   /* VE close*/
@@ -248,7 +248,7 @@ h1#page-title {
 	font-size: 180%;
 	line-height: 1.1em;
 	font-weight: bold;
-	color: red;
+	color: #cc0000;
 	text-align: center;
 	margin: 10px 10px 0 10px;
 	padding: 10px;
@@ -265,7 +265,7 @@ h1#page-title {
 .box-white {
 	width: 740px;
 	background-color: white;
-	border: 1px solid red; 
+	border: 1px solid #cc0000; 
 	margin: 15px 35px 0 30px;
 }
 
@@ -276,10 +276,26 @@ h1#page-title {
 }
 
 .box-gold-bg {
-	width: 680px;
-	background-color: #C6B663;
-	padding-top: 1px;
+	width: 640px;
+	border: 3px solid #C6B663;
+	margin: 0 0 0 35px;
+	background-color: #A5B284;
+	padding: 1px 0 1px 0;	
 	/* VE I don't understand why if I put any padding in here it increases the vertical padding by 30px. */
+}
+
+.bold-black  {
+	font-weight: bold;
+	color: #000000;
+
+}
+
+img.buynow {
+	margin: 20px 0 0px 70px;
+}
+
+img.guaranteed {
+	margin: 0px 0 20px 190px;
 }
 
 
@@ -295,8 +311,8 @@ p.regular {
 	line-height: 1.2em;
 	color: black;
 	text-align: left;
-	margin: 10px 10px 0 10px;
-	padding: 10px;	
+	margin: 5px 30px 10px 20px;
+	padding: 10px 0 0 15px;	
 }
 
 p.now-you-can {
@@ -304,7 +320,7 @@ p.now-you-can {
 	font-size: 170%;
 	line-height: 1.1em;
 	font-weight: bold;
-	color: red;
+	color: #cc0000;
 	margin: 15px 0 15px 40px;
 	text-align: center;
 }
@@ -318,7 +334,6 @@ p.now-you-can {
 }
 
 #content-about, #content-startnow {
-	width: 840px;
 	background-image:url(../images/monastery.jpg);
 	background-repeat: no-repeat;
 	width: 800px;
@@ -336,7 +351,7 @@ border: 1px solid white;
 
 }
 
-#content-about h2, #content-startnow h2 {
+#content-about h2, #content-startnow h2, #content-body h2 {
 	font-size: 220%;
 	width: 600px;
 	line-height: 1em;
@@ -348,8 +363,21 @@ border: 1px solid white;
 
 	}
 	
-#content-about h3, #content-startnow h3 {
-	font-size: 160%;
+#content-body h2.bonus {
+	color: #000000;
+	text-align: center;
+	margin-left: 80px;
+}
+
+#content-body h3.red {
+	color: #cc0000;
+	text-align: center;
+	margin: 15px 0 0 80px;
+}
+	
+#content-about h3, #content-startnow h3, #content-body h3 {
+	font-family: 'IM Fell DW Pica';
+	font-size: 180%;
 	width: 600px;
 	line-height: 1em;
 	text-align: center;
@@ -387,6 +415,11 @@ p.about, p.startnow {
 #content-about a  {
 	color: #C6B663;
 	}
+	
+.alert {
+	background-color: #CE7563;
+	margin: 20px 30px 0px 30px;
+}
 
 img.inline-left {
 float: left;
@@ -398,21 +431,45 @@ p.alert {
 font-family: "Book Antiqua", Palatino, "Times New Roman", serif;	
 font-size: 140%;
 color: white;
-background-color: #ce7563;
-border: 1px solid red;
-width:640px;
 padding: 15px;
-margin: 0 0 15px 15px;
+margin: 0 0 0px 33px;
 text-align: center;
 	
 }
 
+.alert ul {
+	list-style-type: disc;
+	margin: 0 40px 0 40px;
+	padding-bottom: 20px;
+}
+
+.alert li {
+	font-family: "Book Antiqua", Palatino, "Times New Roman", serif;	
+	font-size: 130%;
+	font-weight: normal;
+	color: white;
+	padding: 0;
+	margin: 0;
+	text-align: left;
+}
+
+p.caption-1 {
+	font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.2em;
+    margin: 5px 10px 0 10px;
+    padding: 10px;
+    text-align: left;
+	font-style: none;
+
+}
+
 span.red-text {
-color: red;	
+color: #cc0000;	
 }
 
 span.gold-text {
-color: gold;
+color: #C6B663;
 }
 
 span.black-text {
@@ -431,25 +488,34 @@ span.uline {
 
 span.bold-red {
 	font-weight: bold:
-	color: red;
+	color: #cc0000;
 }
 
 span.hl-yellow {
 	background-color: #FFFF00
 }
 
+span.hl-yellow-2 {
+	background-color: #FFFF99
+}
+
 span.hl-gold {
-	background-color: gold;
+	background-color: #C6B663;
 }
 
 span.hl-red-gold {
-	background-color: gold;
-	color: red;
+	background-color: #C6B663;
+	color: #cc0000;
 }
 
 span.red-highlight {
-color: red;
+color: #cc0000;
 background-color: #FFFF00;
+}
+
+span.alert {
+color: #FFFFFF;
+background-color: #CE7563;
 }
 
 #group-large-img {
@@ -460,12 +526,18 @@ background-color: #FFFF00;
 	margin: 20px 0 30px 50px;
 	}
 
+dd {
+	font-family: "Book Antiqua", Palatino, "Times New Roman", serif;
+	color: #cc0000;
+	}
 
 dl {
 	display: block;
-	margin: 20px;
+	margin: 20px 0 0 70px;
 	padding: 0;
 }
+
+
 
 ol.disc {
 	margin-left: 20px;
@@ -476,7 +548,7 @@ ol.disc li {
     line-height: 26px;
     margin: 5px 0;
     padding-left: 10px;
-	background-color: gold;
+	background-color: #FFFF99;
 	font-size: 16px;
 	width: 240px;
 

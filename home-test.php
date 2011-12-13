@@ -102,8 +102,11 @@
 								</div><!-- #inline-image close -->
 							</div><!-- .box-white close -->
 							
-							<div class="box-bg">
+							<div class="alert">
 								<p class="alert"><strong>Imagine - the movie and&nbsp;book that&nbsp;inspired the world were&nbsp;inspired&nbsp;by Teachings, Principles&nbsp;and Universal Laws&nbsp;that you are now about to discover!</strong></p>	
+							</div><!-- .alert close -->
+							
+							<div class="box-white">
 								<p class="regular"><strong><span class="red-text">The Wattles Prosperity Bible</span></strong> is a compilation of works compiled into an incredible, <strong>POWERFUL FIVE&nbsp;(5) VOLUME SET</strong> - <span class="highlight"><strong>COMPRISING MORE THAN 1,400 PAGES</strong></span> - that includes <strong>ALL</strong> of the books, essays, articles and works by Mr. Wattles that delve deeply into the underlying scientific teachings and principles of the Universal Laws &ndash; including the Law of Attraction &ndash; only superficially covered in <em>The Secret</em>.</p>
 								<p class="regular"><strong>AND, as a <span class="red-highlight"><span style="text-decoration: underline;">Limited Time Bonus</span></span>, with your purchase of <span class="red-text">The Wattles Prosperity Bible</span>, you&nbsp; will also receive - <span class="highlight"><span style="text-decoration: underline;">FREE</span></span> - <span class="red-text">The Law of Attraction Prosperity Bible: </span><span class="highlight">A Five-Volume Compilation of the World&#39;s Greatest Law of Attraction Works, comprised of 18 COMPLETE EBooks and more than 4,000 PAGES! Every work mentioned in the book, <em>The Secret,</em> and MUCH MORE!</span></strong></p>
 								<p class="regular"><span class="red-text"><strong>The Wattles Prosperity Bible</strong></span> will transform your understanding of the Law of Attraction &ndash; and the many other Universal Laws that govern <strong>YOUR LIFE</strong> &nbsp;&ndash; from the &ldquo;mystical&rdquo; to the practical, from the intangible to the tangible, from the theoretical to the real!</p>
