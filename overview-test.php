@@ -60,7 +60,7 @@
 
 						<div class="clearfix" id="content-startnow">
 							<div id="content-startnow-frame" class="clearfix">
-								<div class="text-box">
+								<div class="intro-box">
 						
 									<h2>Overview</h2>
 									<p class="regular"><span class="gold-text"><strong>The Wattles Prosperity Bible</strong></span> is more than just "a book" - it is a <span class="gold-text"><strong>virtual Law of Attraction Library</strong></span> of dozens of essays, articles, stories and books by the world's Law of Attraction authority compiled into one extraordinary collection that FINALLY explains and teaches in practical detail the <strong>ACTUAL PRECISE TEACHINGS</strong> relied upon in books, seminars and courses read by or taught to millions of others.</span>
@@ -88,7 +88,7 @@
 						
 						
 						<div class="clearfix" id="content-body-wrap">
-							<div id="content-body">
+							<div id="content-body" class="clearfix">
 								<div class="box-white">
 									<p class="regular"><span class="hl-yellow-2"><strong>The Wattles Prosperity Bible is comprised of the Five Powerful Volumes:</span></strong></span></p>
 
@@ -101,9 +101,49 @@
 										<li>The Selected Works Series</li>
 									</ol>
 								
-									<p class="regular">These Five Volumes, starting with the fundamental Volume One, <strong><em>The Science of Living Series</em></strong>, will teach you every glorious detail of Wattles' teachings that have been cited, quoted and referenced in hundreds of books and materials over the past<strong> ONE HUNDRED YEARS</strong> &mdash; including by Rhonda Byrne in the smashing, #1 Best Seller, <em>The Secret</em>!&nbsp; Because <span style="color: #dc143c;"><strong>The Wattles Prosperity Bible</strong></span> is <strong>THE SOURCE</strong> of these Scientific Teachings, you will learn &mdash; as taught by Master Wattles himself &mdash; exactly HOW to implement the Universal Laws on a practical level into YOUR everyday life to attain the Prosperous, Rich life that you Desire &mdash; AND DESERVE!</span></p>							
+									<p class="regular">These Five Volumes, starting with the fundamental Volume One, <strong><em>The Science of Living Series</em></strong>, will teach you every glorious detail of Wattles' teachings that have been cited, quoted and referenced in hundreds of books and materials over the past<strong> ONE HUNDRED YEARS</strong> &mdash; including by Rhonda Byrne in the smashing, #1 Best Seller, <em>The Secret</em>!&nbsp; Because <span style="color: #dc143c;"><strong>The Wattles Prosperity Bible</strong></span> is <strong>THE SOURCE</strong> of these Scientific Teachings, you will learn &mdash; as taught by Master Wattles himself &mdash; exactly HOW to implement the Universal Laws on a practical level into YOUR everyday life to attain the Prosperous, Rich life that you Desire &mdash; AND DESERVE!</span></p>	
 
-									<p class="regular"<strong>But that is ONLY the beginning!</strong> We've literally scoured the Earth to locate and compile &mdash; <span class="hl-yellow-2"><strong>as a BONUS FOR A LIMITED TIME ONLY</span></strong></span> &mdash; <strong>ALL of the individual Law of Attraction works mentioned in the world wide success book, <em>The Secret</em></strong>. Of course, <em>The Secret</em> introduced you to the Law of Attraction.&nbsp; But now, for the first time EVER, the 5-Volume BONUS set, <span style="color: #dc143c;"><strong>The Law of Attraction Prosperity Bible</strong></span>, makes available in a single product <strong>ALL</strong> of the underlying books and teachings quoted in <em>The Secret</em>.&nbsp; <span class="uline"><strong>Learn ALL of the Universal Laws directly from the mouths of the Great Master Teachers</strong></span>!</p>
+									<p class="regular"<strong>But that is ONLY the beginning!</strong> We've literally scoured the Earth to locate and compile &mdash; <span class="hl-yellow-2"><strong>as a BONUS FOR A LIMITED TIME ONLY</strong></span> &mdash; <strong>ALL of the individual Law of Attraction works mentioned in the world wide success book, <em>The Secret</em></strong>. Of course, <em>The Secret</em> introduced you to the Law of Attraction.&nbsp; But now, for the first time EVER, the 5-Volume BONUS set, <span style="color: #dc143c;"><strong>The Law of Attraction Prosperity Bible</strong></span>, makes available in a single product <strong>ALL</strong> of the underlying books and teachings quoted in <em>The Secret</em>.&nbsp; <span class="uline"><strong>Learn ALL of the Universal Laws directly from the mouths of the Great Master Teachers</strong></span>!</p>
+									
+									
+									
+									<div class="testimonials">
+										<blockquote class="quotation">
+											<p>This is a wonderful compilation and an in depth inquiry of Mind by the Law of Attraction guru&nbsp;Wattles D Wattles.&nbsp; It broadens the horizons of mind by letting us know that there is a force that is greater than Mind which operates the mind.&nbsp; My favorite quote is "While there appears to be life without intelligence, there is nowhere any intelligence without life." Thank you so much for this valuable information.</p>
+											<p class="signature">-  Yashank Gupta </p>
+										</blockquote>
+									</div>
+
+									</div>
+					
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+
+									<div id="sell-buts" class="clearfix">
+										<div id="buynow-small" class="clearfix">
+
+											<img src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/button_buynow_sm.png" width="293" height="84"/>
+										</div>
+										<div id="guaranteed-small" class="clearfix">
+											<img src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/guaranteed_sm.jpg" width="173" height="114" />
+										</div>
+									</div>
+									
+									
+
 								
 								</div><!-- .box-white close -->
 								
@@ -124,6 +164,16 @@
 									<p class="regular">In <em><strong>The Science of Living Series</strong></em>, the Science taught by Wattles is precise and exact methodology that you may implement in your life &mdash; today &mdash; regardless of where you are in your life. Introduce yourself to the Law of Gratitude, the Law of Vibration, the Law of Increase and the old wisdom of doing unto others as you would have done unto yourself and you will see that you are exactly where you are TODAY based on your past thinking and what you have put into Your life and by way of service to others.</p>
 									<p class="regular"><strong>When it comes to Prosperity and Success, God, our Universal Creator plays no favorites</strong> &mdash; <strong>work in Scientific fashion according to His Universal Laws and you SHALL achieve the same Success and Prosperity that others have attained &mdash; knowingly or unknowingly working in harmony with those same Laws!</strong></p>
 									<p class="caption-1">Explore this volume by clicking the titles below...</p>
+									
+									<div id="sell-buts" class="clearfix">
+										<div id="buynow-small" class="clearfix">
+
+											<img src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/button_buynow_sm.png" width="293" height="84"/>
+										</div>
+										<div id="guaranteed-small" class="clearfix">
+											<img src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/guaranteed_sm.jpg" width="173" height="114" />
+										</div>
+									</div>									
 
 								</div><!-- #box-white close -->
 
@@ -141,6 +191,18 @@
 									<p class="regular">As Master Wattles teaches, overcoming established conditioning and thought habits with&nbsp; new, sustained and proper thinking is the hardest work known to man and explains why so many shirk away from it.&nbsp; But, with <em><strong>The Power of Mind Series</strong></em>, you will learn both the "hows" and the "whys" and what it can mean for you to tap the <span class="hl-yellow-2"><strong>Infinite Power of YOUR Mind as you define the path for your life that you've always dreamed about</strong></span>, but didn't know how to make a reality.</p>
 									<p class="regular">Regardless of where you have been or what your past may hold, you will learn in <em><strong>The Power of Mind Series</strong></em> that your future is boundless and open to you. Learning when and how to act will lead you to achieving your Goals and attaining Success sooner and with less effort. Learn what that means and how to apply it in YOUR Life &mdash; starting TODAY!</p>
 									<p class="caption-1">Explore this volume by clicking the titles below...</p>
+									
+									<div id="sell-buts" class="clearfix">
+										<div id="buynow-small" class="clearfix">
+
+											<img src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/button_buynow_sm.png" width="293" height="84"/>
+										</div>
+										<div id="guaranteed-small" class="clearfix">
+											<img src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/guaranteed_sm.jpg" width="173" height="114" />
+										</div>
+									</div>									
+									
+									
 								</div><!-- #box-white close -->
 							
 							<div id="divider"> 
@@ -158,7 +220,18 @@
 
 								<p class="regular">In <em><strong>The Power of Living Series</strong></em>, learn the secrets of Designing and CREATING Your Life for Richness, Happiness and Success &mdash; through proper and Scientific Thought, Attitude and Action.&nbsp; From proper thought &mdash; Constructive Thinking &mdash; to the spoken word &mdash; Constructive Speech &mdash; <strong>learn to Live the Life YOU Desire</strong>.</p>
 								
-								<p class="caption-1">Explore this volume by clicking the titles below...</p>	
+								<p class="caption-1">Explore this volume by clicking the titles below...</p>
+								
+								<div id="sell-buts" class="clearfix">
+									<div id="buynow-small" class="clearfix">
+
+										<img src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/button_buynow_sm.png" width="293" height="84"/>
+									</div>
+									<div id="guaranteed-small" class="clearfix">
+										<img src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/guaranteed_sm.jpg" width="173" height="114" />
+									</div>
+								</div>								
+								
 								
 							</div><!-- #box-white close -->
 							
@@ -176,8 +249,18 @@
 								<p class="regular">Critically important is to understand that there is ONE SUPREME INTELLIGENCE in the Universe &mdash; the One Creator, GOD.&nbsp; In <em><strong>The Spiritual Life Series</strong></em>, you will gain a new appreciation for God and His Universal Laws and understand that, as a Loving Father, <span class="hl-yellow-2"><strong>God ONLY wants us to Live an Abundant, Full, Rich and Happy Life!</strong></span>&nbsp; How many times does it say in the Bible &mdash; including by Jesus, the Son of Man &mdash; to "Rejoice and be Happy!" Too many to count!</p>
 								<p class="regular"><span class="hl-yellow-2"><strong>Learn to re-kindle YOUR Spiritual Being in Harmony with the Universal Laws by stripping away the muck of the conditioned Mind to gain a new appreciation for what you have already forgotten to be true, which you once knew as a Child.</strong></span> Your Child Creativity and Desire for Abundance, Growth and Happiness was natural. <strong>The GOOD NEWS</strong> is that be working WITH &mdash; not against &mdash; the Laws of the Universe and aligning yourself WITH the Spirit and Consciousness of our Supreme Creator, <strong>YOU CAN find the Kingdom of God HERE and NOW!</strong></p>
 
-								<p class="caption-1">Explore this volume by clicking the titles below...</p>							
-							
+								<p class="caption-1">Explore this volume by clicking the titles below...</p>
+
+								<div id="sell-buts" class="clearfix">
+									<div id="buynow-small" class="clearfix">
+
+										<img src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/button_buynow_sm.png" width="293" height="84"/>
+									</div>
+									<div id="guaranteed-small" class="clearfix">
+										<img src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/guaranteed_sm.jpg" width="173" height="114" />
+									</div>
+								</div>
+
 							</div><!-- #box-white close -->
 							
 							<div id="divider"> 
@@ -192,6 +275,16 @@
 								<p class="regular">Volume V of The Wattles Prosperity Bible, <em><strong>The Selected Works Series</strong></em>, is a collection of short stories and novels by Wallace D. Wattles that supplement the teachings of Volumes I &mdash; IV, providing practical insight and application by the stories' characters of the Scientific Teachings of Master Wattles.</p>
 								<p class="regular">Serving as not only an example, but a working, practical application of the Scientific Methodology and Universal Laws, these more casual works by Wattles provide a meaningful demonstration of <span class="hl-yellow-2"><strong>HOW you can implement these Principles in YOUR Life to Create a Rich, Abundant and Prosperous Life for YOU and YOUR Loved Ones</strong>!</span></p>\
 								<p class="caption-1">Explore this volume by clicking the titles below...</p>
+								
+								<div id="sell-buts" class="clearfix">
+									<div id="buynow-small" class="clearfix">
+
+										<img src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/button_buynow_sm.png" width="293" height="84"/>
+									</div>
+									<div id="guaranteed-small" class="clearfix">
+										<img src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/guaranteed_sm.jpg" width="173" height="114" />
+									</div>
+								</div>
 
 							</div><!-- #box-white close -->
 							
@@ -229,6 +322,16 @@
 
 								<p class="regular"><strong>&nbsp;Never before has it been possible to obtain&nbsp;a single, dynamic and comprehensive collection of the World's greatest Success, Prosperity and Law of Attraction works - UNITL NOW!</strong>&nbsp; Together, <strong><span class="red-text">The Wattles Prosperity Bible</span></strong> and <strong><span class="red-text">The Law of Attraction Prosperity Bible</span></strong> is <strong><span class="hl-yellow-2">YOUR Virtual Library of the Greatest Law of Attraction Works in the World!</span></strong></span></span></p>
 								<p class="regular"><strong><span style="background-color: #ffffff;">CLICK&nbsp;THE "VOLUME TAB" BELOW FOR DETAILS ON EACH VOLUME OF <span class="red-text">THE LAW OF ATTRACTION PROSPERITY BIBLE</span>!</span></span></span></strong></p>
+								
+								<div id="sell-buts" class="clearfix">
+									<div id="buynow-small" class="clearfix">
+
+										<img src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/button_buynow_sm.png" width="293" height="84"/>
+									</div>
+									<div id="guaranteed-small" class="clearfix">
+										<img src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/guaranteed_sm.jpg" width="173" height="114" />
+									</div>
+								</div>
 
 
 							</div><!-- #box-white close -->
@@ -243,7 +346,17 @@
 								<p class="regular">As an additional Bonus, when you order <span class="red-text">The Wattles Prosperity Bible </span>during this special promotion period, you will also receive <span class="red-text">The Wattles Quotable&nbsp;Bible &mdash; </span>more than 1,000 Quotes from the Law of Attraction Master himself.&nbsp;</span></span></p>
 
 								<p class="regular">&nbsp;This great work is comprised of 88 pages of Wattles' best Quotes from the works comprising The Science of Living Series, plus more.&nbsp; <span class="red-text">The Wattles Quotable Prosperity Bible </span>contains precisely 1,032 Quotes from <em><strong>The Science of Getting Rich</strong></em>, <em><strong>The Science of Being Well</strong></em>, <em><strong>The Science of Being Great</strong></em>, <em><strong>How to Get What You Want</strong></em> and <em><strong>How to Promote Yourself</strong></em>.</span></span></p>
-								<p class="regular">&nbsp;This handy Quotable Guide is great for those moments when you seek immediate Wattles Inspiration, but don't know where to turn.&nbsp; Simply open the Quotable Prosperity Bible to any page and start reading &mdash; there is a Quote waiting for you!<span id="_marker">&nbsp;</span></span></span></p>			
+								<p class="regular">&nbsp;This handy Quotable Guide is great for those moments when you seek immediate Wattles Inspiration, but don't know where to turn.&nbsp; Simply open the Quotable Prosperity Bible to any page and start reading &mdash; there is a Quote waiting for you!<span id="_marker">&nbsp;</span></span></span></p>		
+
+								<div id="sell-buts" class="clearfix">
+									<div id="buynow-small" class="clearfix">
+
+										<img src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/button_buynow_sm.png" width="293" height="84"/>
+									</div>
+									<div id="guaranteed-small" class="clearfix">
+										<img src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/guaranteed_sm.jpg" width="173" height="114" />
+									</div>
+								</div>								
 							
 							</div><!-- #box-white close -->
 
@@ -271,7 +384,6 @@
 								<p style="text-align: center;"><span class="hl-yellow-2"><strong>A PAYPAL® ACCOUNT IS NOT REQUIRED TO PURCHASE THE SUCCESS MANUAL PROSPERITY LIBRARY -&nbsp;WE ACCEPT ALL MAJOR CREDIT CARDS!</span></span></strong></span></p>
 								<p style="text-align: center;"><span class="hl-yellow-2"><span style="background-color: #ffffff;"><span style="font-family: book antiqua,palatino;"><span style="font-size: 12pt;"><strong>Click on the "Guarantee Seal" for the Terms of our Guarantee!</strong></span></span></span></span></p>
 								
-					
 							
 							</div><!-- #box-white close -->
 							

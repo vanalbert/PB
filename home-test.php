@@ -79,17 +79,14 @@
 								
 							</div><!-- .box-white close -->
 							
-							<dl><dd>
-							<div style="text-align: center;"><span style="font-family: book antiqua,palatino;"><span style="font-size: 12pt;"><span style="color: rgb(128, 0, 0);"><strong><span style="font-size: 14pt;">41 EBooks of Timeless&nbsp;Spiritual Knowledge.</span></strong></span></span></span></div>
-							</dd><dd>
-							<div style="text-align: center;"><span style="color: rgb(128, 0, 0);"><strong><span style="font-family: book antiqua,palatino;"><span style="font-size: 14pt;">5,400 Pages of Secret Wisdom to Living the Life You Desire and Deserve.</span></span></strong></span></div>
-							</dd><dd>
-							<div style="text-align: center;"><span style="color: rgb(128, 0, 0);"><strong><span style="font-family: book antiqua,palatino;"><span style="font-size: 14pt;">REVEALED: Lost KEYS to Health, Wealth, Prosperity and Success.</span></span></strong></span></div>
-							</dd><dd>
-							<div style="text-align: center;"><span style="color: rgb(128, 0, 0);"><strong><span style="font-family: book antiqua,palatino;"><span style="font-size: 14pt;">Profound Insight into Universal Truths of YOUR &quot;SELF.&quot;</span></span></strong></span></div>
-							</dd><dd>
-							<div style="text-align: center;"><span style="color: rgb(128, 0, 0);"><strong><span style="font-family: book antiqua,palatino;"><span style="font-size: 14pt;">The ORIGINAL TEACHINGS on The Law of Attraction.</span></span></strong></span></div>
-							</dd><dd><span style="font-size: 14pt;">&nbsp;</span></dd><dd>
+ 								<dl>
+									<dd>41 EBooks of Timeless&nbsp;Spiritual Knowledge.</dd>
+									<dd>5,400 Pages of Secret Wisdom to Living the Life You Desire and Deserve.</dd>
+									<dd>REVEALED: Lost KEYS to Health, Wealth, Prosperity and Success.</dd>
+									<dd>Profound Insight into Universal Truths of YOUR "SELF."</dd>
+									<dd>The ORIGINAL TEACHINGS on The Law of Attraction.</dd>
+								</dl>
+								
 							<div style="text-align: center;"><span style="font-family: book antiqua,palatino;"><span style="font-size: 12pt;"><strong><span style="font-size: 14pt;"><span style="color: rgb(128, 0, 0);"><span style="font-size: 18pt;">Interested? Well, <span class="highlight">READ ON . . .</span></span></span></span></strong></span></span></div>
 							</dd></dl>
 							
@@ -115,8 +112,28 @@
 								<p class="regular"><strong>While others sit idly by waiting for fortune to come to them, with <span class="red-text">The Wattles Prosperity Bible</span>, <span class="highlight">YOU will be among the very few who will possess ALL of the Keys to Success written by Wattles</span>. With this comprehensive Success manual as YOUR PERSONAL GUIDE, you will be among the very few who will have access to the Science on manifesting your Desires and getting the most out of life by taking the proper, requisite Actions that yield<span class="highlight"> REAL Results</span>.</strong><span id="_marker">&nbsp;</span></p>
 							</div>
 
+							<div class="box-white">
 							
+							
+								<img src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/button_buynow.png" class="buynow" />
+								<a href="/our-guarantee"><img src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/guaranteed.jpg" class="guaranteed" alt="We Guarantee Your Satisfaction!" title="We Guarantee Your Satisfaction!" border="0" /></a>								
 
+ 								<dl>
+									<dd>41 EBooks of Timeless&nbsp;Spiritual Knowledge.</dd>
+									<dd>5,400 Pages of Secret Wisdom to Living the Life You Desire and Deserve.</dd>
+									<dd>REVEALED: Lost KEYS to Health, Wealth, Prosperity and Success.</dd>
+									<dd>Profound Insight into Universal Truths of YOUR "SELF."</dd>
+									<dd>The ORIGINAL TEACHINGS on The Law of Attraction.</dd>
+								</dl>
+								
+								<p class="sell-1"><strong>Investment: $47.00</strong></p>
+								<p class="sell-1"><strong>Value: PRICELESS</strong></p>
+								<p class="paypal-1">Pay with your Paypal<sup>&copy;</sup> account or any major credit card accepted by Paypal.</p>
+								<p class="paypal-2"><span class="hl-yellow-2"><strong>A PAYPAL<sup>&copy;</sup> ACCOUNT IS NOT REQUIRED TO PURCHASE THE SUCCESS MANUAL PROSPERITY LIBRARY -&nbsp;WE ACCEPT ALL MAJOR CREDIT CARDS!</strong></span></p>
+								<p class="paypal-1"><strong>Click on the "Guarantee Seal" for the Terms of our Guarantee!</strong></p>
+								
+							
+							</div><!-- #box-white close -->							
 							
 							
 

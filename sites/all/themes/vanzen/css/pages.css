@@ -262,11 +262,18 @@ h1#page-title {
 	border: 1px solid white;
 }
 
+.intro-box {
+	width: 720px;
+	margin: 0 0 0 40px;
+}
+
 .box-white {
 	width: 740px;
 	background-color: white;
 	border: 1px solid #cc0000; 
 	margin: 15px 35px 0 30px;
+	display: block;
+	height: 100%;
 }
 
 .box-red-bg {
@@ -345,11 +352,7 @@ p.now-you-can {
 border: 1px solid white;
 }
 
-.text-box {
-	width: 720px;
-	margin: 0 0 0 40px;
 
-}
 
 #content-about h2, #content-startnow h2, #content-body h2 {
 	font-size: 220%;
@@ -399,9 +402,6 @@ border: 1px solid white;
 	color: white;
 	font-size: 130%;
 	font-weight: normal;
-
-
-
 }
 	
 p.about, p.startnow {
@@ -461,7 +461,25 @@ p.caption-1 {
     padding: 10px;
     text-align: left;
 	font-style: none;
+}
 
+p.sell-1{
+	font-size: 180%;
+	color: #DE1439;
+	text-align: center;
+	margin: 10px;
+}
+
+
+p.paypal-1 {
+	font-size: 140%;
+	text-align: center;
+}
+
+p.paypal-2 {
+	font-size: 120%;
+	text-align: center;
+	margin: 10px;
 }
 
 span.red-text {
@@ -525,15 +543,34 @@ background-color: #CE7563;
 #divider {
 	margin: 20px 0 30px 50px;
 	}
+	
+#buynow-small {
+	position: relative;
+	top: -15px;
+	left: 110px;
+	height: 100%;
+	display: inline;
+}
+
+#guaranteed-small {
+	position: relative;
+	left: 140px;
+	top: 0;
+	height: 100%;
+	display: inline;
+}
 
 dd {
 	font-family: "Book Antiqua", Palatino, "Times New Roman", serif;
-	color: #cc0000;
+	font-size: 130%;
+	font-weight: bold;
+	color: #840000;
+	text-align: center;
 	}
 
 dl {
 	display: block;
-	margin: 20px 0 0 70px;
+	margin: 20px 0 20px 10px;
 	padding: 0;
 }
 
