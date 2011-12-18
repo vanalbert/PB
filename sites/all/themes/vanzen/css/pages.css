@@ -254,6 +254,10 @@ h1#page-title {
 	padding: 10px;
 }
 
+#content-body {
+	margin-top: 10px;
+	}
+
 #content-body-wrap {
 	background-color: #d8d09c;	
 	width: 800px;
@@ -295,6 +299,36 @@ h1#page-title {
 	font-weight: bold;
 	color: #000000;
 
+}
+
+.testimonials {
+	width: 680px;
+	margin: 0 0 0 40px;
+}
+
+blockquote.quotation {
+    background: url("../images/blockquote_start.png") no-repeat scroll 0 0 transparent;
+    border: medium none;
+    margin: 10px 0;
+    padding: 10px 35px 0;
+    text-align: justify;
+}
+
+blockquote.quotation p {
+    font-family: Georgia,"Times New Roman",Times,serif;
+    font-size: 130%;
+    font-style: italic;
+    background: url("../images/blockquote_end.png") no-repeat scroll 100% 100% transparent;
+    margin: 0 0px 0px 0;
+    padding: 0 35px 10px 0;
+}
+
+blockquote {
+    margin: 10px 0 10px 15px;
+}
+
+b.signature {
+	font-family: Arial, sans-serif;
 }
 
 img.buynow {
@@ -437,6 +471,23 @@ text-align: center;
 	
 }
 
+ul.tick {
+	list-style: none outside none;
+	margin: 10px 0;
+	padding-left: 20px;
+}
+
+
+ul.tick li {
+	font-family: "Book Antiqua", Palatino, "Times New Roman", serif;
+	font-size: 130%;
+    font-weight: normal;
+    line-height: 130%;
+    margin: 5px 0;
+    padding-left: 35px;
+	background: url("../images/tick.png") no-repeat scroll 0px 0px transparent;
+}
+
 .alert ul {
 	list-style-type: disc;
 	margin: 0 40px 0 40px;
@@ -487,7 +538,7 @@ color: #cc0000;
 }
 
 span.gold-text {
-color: #C6B663;
+color: #f5d975	;
 }
 
 span.black-text {

@@ -110,27 +110,32 @@
 									<div class="testimonials">
 										<blockquote class="quotation">
 											<p>This is a wonderful compilation and an in depth inquiry of Mind by the Law of Attraction guru&nbsp;Wattles D Wattles.&nbsp; It broadens the horizons of mind by letting us know that there is a force that is greater than Mind which operates the mind.&nbsp; My favorite quote is "While there appears to be life without intelligence, there is nowhere any intelligence without life." Thank you so much for this valuable information.</p>
-											<p class="signature">-  Yashank Gupta </p>
+											<b class="signature">-  Yashank Gupta </b>
+										</blockquote>
+									</div>
+									
+									<div class="testimonials">
+										<blockquote class="quotation">
+											<p>Having had the privilege to read, meditate and ponder this magnificent work has been a life transformation experience.  These volumes in themselves are a "secret" to discover and putting a copy within my reach was a Divine intervention. I believe "when the student is ready, the teacher appears," and I was definitely ready. Opening my eyes to the truth that my search for the best, it is God seeking fuller expression and enjoyment through me. Thank you.</p>
+											<b class="signature">-  Marisol </b>
 										</blockquote>
 									</div>
 
+									<div class="testimonials">
+										<blockquote class="quotation">
+											<p>The first feeling, when I looked first at the names of the books within the Prosperity Bible was that of huge relief...now, I have a series of books that covers all possible aspects I might be interested in for improvement. Many of those interested in manifesting already know some of the works of Wallace Wattles. But hardly anybody had them all. And his teachings are precious. Now, we can have his competent and efficacious guidance on EVERY aspect of life, every time we need it. WOW!</p>
+											<b class="signature">-  Carmen, Italy </b>
+										</blockquote>
 									</div>
-					
 									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
+									<div class="testimonials">
+										<blockquote class="quotation">
+											<p>I first read "The Science of Being Rich" by Wattles over 30 years ago during an exciting but fearful time in my life.  Until now, I was not aware of how prolific Wattles was.  More than ever, this timeless wisdom is needed. This is a long overdue thank you to Wattles, his legacy of truly valuable inspiring writing, and to the Vision, dedication and skill required in making available these five Volumes of Wattle's wisdom in such a polished and well designed publication.</p>
+											<b class="signature">-  Barry McCullough </b>
+										</blockquote>
+									</div>
+
+							
 
 									<div id="sell-buts" class="clearfix">
 										<div id="buynow-small" class="clearfix">
@@ -378,14 +383,14 @@
 									<dd>The ORIGINAL TEACHINGS on The Law of Attraction.</dd>
 								</dl>
 								
-								<p style="text-align: center;"><span style="font-family: book antiqua,palatino;"><strong><span style="font-size: 14pt;"><span style="color: #dc143c;"><span style="font-size: 18pt;">Investment: $47.00</span></span></span></strong></span></p>
-								<p style="text-align: center;"><span style="font-family: book antiqua,palatino;"><strong><span style="font-size: 14pt;"><span style="color: #dc143c;"><span style="font-size: 18pt;">Value: PRICELESS</span></span></span></strong></span></p>
-								<p style="text-align: center;">Pay with your Paypal® account or any major credit card accepted by Paypal.</span></span></p>
-								<p style="text-align: center;"><span class="hl-yellow-2"><strong>A PAYPAL® ACCOUNT IS NOT REQUIRED TO PURCHASE THE SUCCESS MANUAL PROSPERITY LIBRARY -&nbsp;WE ACCEPT ALL MAJOR CREDIT CARDS!</span></span></strong></span></p>
-								<p style="text-align: center;"><span class="hl-yellow-2"><span style="background-color: #ffffff;"><span style="font-family: book antiqua,palatino;"><span style="font-size: 12pt;"><strong>Click on the "Guarantee Seal" for the Terms of our Guarantee!</strong></span></span></span></span></p>
+								<p class="sell-1"><strong>Investment: $47.00</strong></p>
+								<p class="sell-1"><strong>Value: PRICELESS</strong></p>
+								<p class="paypal-1">Pay with your Paypal<sup>&copy;</sup> account or any major credit card accepted by Paypal.</p>
+								<p class="paypal-2"><span class="hl-yellow-2"><strong>A PAYPAL<sup>&copy;</sup> ACCOUNT IS NOT REQUIRED TO PURCHASE THE SUCCESS MANUAL PROSPERITY LIBRARY -&nbsp;WE ACCEPT ALL MAJOR CREDIT CARDS!</strong></span></p>
+								<p class="paypal-1"><strong>Click on the "Guarantee Seal" for the Terms of our Guarantee!</strong></p>
 								
 							
-							</div><!-- #box-white close -->
+							</div><!-- #box-white close -->		
 							
 							<div id="divider"> 
 								<img src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/divider.png" /> 

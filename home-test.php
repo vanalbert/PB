@@ -63,7 +63,7 @@
 						<h2 class="intro-one">Welcome to the World&#39;s Greatest Success, Prosperity and Law of Attraction Library!</h2>
 
 						<h2 class="intro-two">FINALLY - In a SINGLE Collection - The COMPLETE Works of Wallace D. Wattles - World Master of the Law of Attraction - and ALL of the Works from &quot;THE SECRET&quot;</h2>
-						<p class="what-if"><strong>What If? </strong>What if <strong><span style="text-decoration: underline;">YOU </span></strong>Could Have Access to the World&#39;s Greatest Wisdom on Achieving Success, Attaining Prosperity, Acquiring Wealth and Living a Life of Health, Wellness and Energy?</p>
+						<p class="what-if"><span class="gold-text"><strong>What If? </strong></span>What if <strong><span class="gold-text"><span style="text-decoration: underline;">YOU </span></span></strong>Could Have Access to the World&#39;s Greatest Wisdom on Achieving Success, Attaining Prosperity, Acquiring Wealth and Living a Life of Health, Wellness and Energy?</p>
 
 						</div>
 						<!-- #content-intro close -->
