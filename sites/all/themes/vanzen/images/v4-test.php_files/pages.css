@@ -343,9 +343,10 @@ img.guaranteed {
 #content-body-grouplarge {
 	margin: 0 20px 0 100px;
 }
+	
 
 
-p.regular, p.reg-center, p.reg-justify {
+p.regular {
 	font-family: "Book Antiqua", Palatino, "Times New Roman", serif;	
 	font-size: 130%;
 	line-height: 1.2em;
@@ -353,14 +354,6 @@ p.regular, p.reg-center, p.reg-justify {
 	text-align: left;
 	margin: 5px 30px 10px 20px;
 	padding: 10px 0 0 15px;	
-}
-
-p.reg-center {
-	text-align: left;
-}
-
-p.reg-justify {
-	text-align: justify;
 }
 
 p.now-you-can {
@@ -404,110 +397,8 @@ border: 1px solid white;
 	text-decoration: underline;
 	margin: 0px 0px 20px 40px;
 	padding-top: 10px;
+
 	}
-	
-#content-guarantee h1 {
-	text-align: center;'
-}
-	
-#content-guarantee h2, #content-guarantee h3 {
-	font-family: 'Droid Serif', Georgia, "Book Antiqua", serif;	
-	font-size: 160%;
-	line-height: 1em;
-	color: #00000;
-	text-align: center;
-	margin: 0px 0px 20px 40px;
-	padding-top: 10px;
-	}
-
-#content-guarantee h3 {
-	font-size: 160%;
-	text-align: left;
-	margin-bottom: 10px;
-	}
-
-#content-guarantee img {
-	margin: 0 0 0 200px;
-}
-
-#content-guarantee p {
-	font-family: Arial, sans-serif;
-	text-align: left;
-	font-size: 14px;
-	margin: 0 30px 10px 40px;
-	}
-	
-#content-terms {
-   font: 14px/23px "Lucida Grande","Lucida Sans","Lucida Sans Unicode","Lucida",Verdana,"Bitstream Vera Sans",sans-serif;
-   }
-	
-#content-terms h1 {
-	font-family: 'IM Fell DW Pica';
-	font-size: 240%;
-	line-height: 1.1em;
-	color: #00000;
-	text-align: left;
-	margin: 0px 0px 20px 40px;
-	padding-top: 10px;
-}
-
-#content-terms h2 {
-    font: 24px "Lucida Grande","Lucida Sans","Lucida Sans Unicode","Lucida",Verdana,"Bitstream Vera Sans",sans-serif;
-	font-weight: bold;
-	line-height: 1em;
-	color: #00000;
-	text-align: center;
-	margin: 0px 0px 20px 40px;
-	padding-top: 10px;
-	text-decoration: underline;
-}
-
-#content-terms h4 {
-    font: 14px "Lucida Grande","Lucida Sans","Lucida Sans Unicode","Lucida",Verdana,"Bitstream Vera Sans",sans-serif;
-	font-weight: bold;
-	line-height: 1em;
-	color: #000000;
-	text-align: center;
-	margin: 0px 0px 20px 40px;
-	padding-top: 10px;
-	text-decoration: underline;
-}
-
-
-#content-terms p {
-	font-family: "Lucida Grande","Lucida Sans","Lucida Sans Unicode","Lucida",Verdana,"Bitstream Vera Sans",sans-serif;
-	margin: 10px 30px 10px 40px;
-}
-
-#content-terms p.disclaimers {
-	margin: 0 30px 5px 40px;
-}
-
-#content-terms ul {
-	list-style-type: none;
-	margin-left: 45px;
-}
-
-#content-terms a, #content-terms a:hover, #content-terms a:active, #content-terms a:visited {
-    color: blue;
-    font-weight: bold;
-	text-decoration: none;
-}
-
-#content-terms a.header, #content-terms a.header:hover, #content-terms a.header:active, #content-terms a.header:visited {
-    color: #000000;
-    font-weight: bold;
-}
-
-#content-terms img {
-	margin: 0 0 0 160px;
-}
-
-#content-terms dl {
-	margin-left: 40px;
-}
-
-
 	
 #content-body h2.bonus {
 	color: #000000;
