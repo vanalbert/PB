@@ -52,24 +52,24 @@
 								<div class="box-white">
 									<h2 class=vol-title">God: The Servant of Man</h2>
 									<img src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/vol-4-1-img.jpg" class="inline-left" title="God: The Servant of Man" alt="God: The Servant of Man" height="235" width="300"/>
-									<p class="regular">The Universal Laws were established by one Supreme Intelligence: God.&nbsp; In &ldquo;God: The Servant of Man,&rdquo; you will gain a new understanding of our Creator, His Laws, and HOW you can &mdash; TODAY &mdash; begin living YOUR Life in Harmony with those Laws to achieve an Abundant, Prosperous and Full Life!</p>
-									<p class="regular">If your notion of God is an old man with a long beard sitting in a cloud &mdash; it&rsquo;s time to move on!&nbsp; God is Infinite, All-Powerful and One.&nbsp; And, the great news is that the Supreme Intelligence is ever, omnipresent to SERVE US!&nbsp; But first, we MUST re-tool our Thinking, open our Consciousness, and work WITH God&rsquo;s Laws.</p>
-									<p class="regular">&ldquo;God: The Servant Man&rdquo; provides the Spiritual Blueprint to lead and live a Spiritual Life.&nbsp; While understanding the Laws is only the beginning, in this POWERFUL manual, you will also learn the specific Scientific Methods by which to apply the Power of God to resolve your personal obstacles and challenges and achieve the Good that you Desire and Deserve!</p>
+									<p class="regular">The Universal Laws were established by one Supreme Intelligence: God.&nbsp; In “God: The Servant of Man,” you will gain a new understanding of our Creator, His Laws, and HOW you can – TODAY – begin living YOUR Life in Harmony with those Laws to achieve an Abundant, Prosperous and Full Life!</p>
+									<p class="regular">If your notion of God is an old man with a long beard sitting in a cloud – it’s time to move on!&nbsp; God is Infinite, All-Powerful and One.&nbsp; And, the great news is that the Supreme Intelligence is ever, omnipresent to SERVE US!&nbsp; But first, we MUST re-tool our Thinking, open our Consciousness, and work WITH God’s Laws.</p>
+									<p class="regular">“God: The Servant Man” provides the Spiritual Blueprint to lead and live a Spiritual Life.&nbsp; While understanding the Laws is only the beginning, in this POWERFUL manual, you will also learn the specific Scientific Methods by which to apply the Power of God to resolve your personal obstacles and challenges and achieve the Good that you Desire and Deserve!</p>
 					
 									<div id="divider"> 
 										<img src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/divider.png" /> 
 									</div><!-- #divider close -->
 									
 									<ul class="tick">
-										<li>Understanding the &ldquo;uni&rdquo;-versal nature of Universal Laws and why they work with mathematical and scientific precision.</li>
+										<li>Understanding the “uni”-versal nature of Universal Laws and why they work with mathematical and scientific precision.</li>
 										<li>Universal Laws were established by God, Supreme Intelligence, and therefore MUST work with exactness every time, all times.&nbsp; A Law is not a Law if it only works some of the time.</li>
-										<li>Why &ldquo;Directivity&rdquo; flows from Supreme Intelligence.</li>
-										<li>Learn how the Laws of the Universe are available for Your use, towards any noble objective and for the Good of the Universe. (&ldquo;Man may direct infinite power, so long as man&rsquo;s purposes have the sanction of infinite intelligence.&rdquo;)</li>
+										<li>Why “Directivity” flows from Supreme Intelligence.</li>
+										<li>Learn how the Laws of the Universe are available for Your use, towards any noble objective and for the Good of the Universe. (“Man may direct infinite power, so long as man’s purposes have the sanction of infinite intelligence.”)</li>
 										<li>How Jesus had direct access to the Universal Laws and how He directed Infinite Intelligence during His human ministry.</li>
 										<li>How to align Your Will with that of Supreme Intelligence in order to attain your Desires.</li>
-										<li>Why it is important to let God direct the means by which Your Desire will be realized and why &ldquo;dictating&rdquo; such precise means will work against You.</li>
+										<li>Why it is important to let God direct the means by which Your Desire will be realized and why “dictating” such precise means will work against You.</li>
 
-										<li>How to &ldquo;let go and let God.&rdquo;</li>
+										<li>How to “let go and let God.”</li>
 										<li>Specific Methods for apply the power of God to the solution of Your own problems and how to use it in overcoming Your personal difficulties.</li>
 										<li>How to examine and analyze Your hopes and motives for seeking what You Desire and determining whether they are congruent with the Will of God.</li>
 										<li>Learn how to Surrender to Divine Providence in order to attain Your Desires.</li>
@@ -101,12 +101,12 @@
 										<li>Contrary to many beliefs, Jesus had an incredibly brilliant Mind and was friends with may aristocrats and wealthy people.</li>
 										<li>Jesus had an impressive, commanding, powerful personal appearance.</li>
 										<li>Jesus came for and stood for Humanity, and stood against vested religions at that time.</li>
-										<li>Why Jesus bonded with and related so well to children and why a &ldquo;child like Mind&rdquo; is essential for Spiritual Growth.&nbsp; (&ldquo;Jesus took a little child and set him in the midst of them, and said: &ldquo;Whosoever shall offend one of these little ones it is better that a millstone were hanged around his neck, and he were cast into the sea.&rdquo;)</li>
+										<li>Why Jesus bonded with and related so well to children and why a “child like Mind” is essential for Spiritual Growth.&nbsp; (“Jesus took a little child and set him in the midst of them, and said: “Whosoever shall offend one of these little ones it is better that a millstone were hanged around his neck, and he were cast into the sea.”)</li>
 
-										<li>Jesus actually taught&nbsp; that Abundance and Plenty are available to all, in this Life &mdash; Now.</li>
+										<li>Jesus actually taught&nbsp; that Abundance and Plenty are available to all, in this Life – Now.</li>
 										<li>How fear, doubt and worry are in contravention to the true teachings of Jesus that the Father provides Abundance and Prosperity to all.</li>
 										<li>Understand the REAL Christ and how organized religions have lost the true meaning of Christ and His teachings.</li>
-										<li>Why the world &mdash; then and now &mdash; wanted and wants a &ldquo;Competitive Christ;&rdquo; the real Jesus was a &ldquo;Creative Christ&rdquo; &mdash; drawing directly from the Infinitenss of God, the Father.</li>
+										<li>Why the world – then and now – wanted and wants a “Competitive Christ;” the real Jesus was a “Creative Christ” – drawing directly from the Infinitenss of God, the Father.</li>
 									</ul>
 									
 									<div id="sell-buts" class="clearfix">
@@ -124,9 +124,9 @@
 									<h2 class=vol-title">What Christ Says</h2>
 									<img src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/vol-4-3-img.jpg" class="inline-left" title="What Christ Says" alt="What Christ Says" height="235" width="300"/>
 									<p class="regular">Who was Christ?&nbsp; What did He actually teach?&nbsp; And why is this important to YOU?</p>
-									<p class="regular">In &ldquo;What Christ Says,&rdquo; learn the REAL, fascinating Truths about Christ: His Personality, His Attitude, His teachings toward Man, and His REAL Teachings about WEALTH &mdash; what Christ actually taught about Abundance, Prosperity and Wealth will SHOCK YOU!</p>
-									<p class="regular">In truth and fact, Christ was a member of the aristocracy, rubbed shoulders with society&rsquo;s wealthy and most powerful members &mdash; and this translated directly into His teachings on Abundance and Prosperity. Jesus actually taught NOT to worry or be concerned with lack and limitation; rather, the Father provides Wealth for ALL &mdash; and in this Life!</p>
-									<p class="regular">Learn the SOURCE of Christ&rsquo;s Miraculous Powers and understand Jesus&rsquo; Relationship with God, the Father: a model for EVERYONE.&nbsp; In &ldquo;What Christ Says,&rdquo; Wattles teaches HOW YOU TOO can &ldquo;Cosmic Consciousness&rdquo; and develop the &ldquo;Christ-like Mind.&rdquo; The Power of Faith and the Process of Receiving &mdash; as taught by Jesus for all Mankind to use to Grow and give glory.</p>
+									<p class="regular">In “What Christ Says,” learn the REAL, fascinating Truths about Christ: His Personality, His Attitude, His teachings toward Man, and His REAL Teachings about WEALTH – what Christ actually taught about Abundance, Prosperity and Wealth will SHOCK YOU!</p>
+									<p class="regular">In truth and fact, Christ was a member of the aristocracy, rubbed shoulders with society’s wealthy and most powerful members – and this translated directly into His teachings on Abundance and Prosperity. Jesus actually taught NOT to worry or be concerned with lack and limitation; rather, the Father provides Wealth for ALL – and in this Life!</p>
+									<p class="regular">Learn the SOURCE of Christ’s Miraculous Powers and understand Jesus’ Relationship with God, the Father: a model for EVERYONE.&nbsp; In “What Christ Says,” Wattles teaches HOW YOU TOO can “Cosmic Consciousness” and develop the “Christ-like Mind.” The Power of Faith and the Process of Receiving – as taught by Jesus for all Mankind to use to Grow and give glory.</p>
 									<p class="regular">Wealth is a RIGHT to which we can all appeal and it is Christ-like to Desire a Rich, Full, Abundant, Prosperous, Healthy and Wealthy LIFE.</p>
 									
 									<div id="divider"> 
@@ -134,38 +134,38 @@
 									</div><!-- #divider close -->	
 
 									<ul class="tick">
-										<li>His Personality &mdash; why the common concept of Christ is distorted and inaccurate.&nbsp; Learn of Christ&rsquo;s true human nature and His Power of God Consciousness.</li>
-										<li>The REAL Jesus &mdash; while not personally owning property, Jesus was a member of the aristocratic society and understood Abundance and Prosperity.</li>
+										<li>His Personality – why the common concept of Christ is distorted and inaccurate.&nbsp; Learn of Christ’s true human nature and His Power of God Consciousness.</li>
+										<li>The REAL Jesus – while not personally owning property, Jesus was a member of the aristocratic society and understood Abundance and Prosperity.</li>
 										<li>The REAL Jesus was educated and a learned Man.</li>
-										<li>Jesus had many influential and wealthy friends and knew NO lack of anything.&nbsp; Lazarus, Jesus&rsquo; dear friend, Lazarus&rsquo; sisters, Joseph of Arimethea, Nicodemus &mdash; all were of Wealth and provided plenty for Jesus.</li>
-										<li>Jesus was not &ldquo;humble&rdquo; &mdash; in the commonly accepted meaning of that word; rather, Jesus was of strong personality, assertive, commanding, and of Power.&nbsp; He &ldquo;spoke as one having authority&rdquo; and &ldquo;his word was with power.&rdquo;</li>
+										<li>Jesus had many influential and wealthy friends and knew NO lack of anything.&nbsp; Lazarus, Jesus’ dear friend, Lazarus’ sisters, Joseph of Arimethea, Nicodemus – all were of Wealth and provided plenty for Jesus.</li>
+										<li>Jesus was not “humble” – in the commonly accepted meaning of that word; rather, Jesus was of strong personality, assertive, commanding, and of Power.&nbsp; He “spoke as one having authority” and “his word was with power.”</li>
 										<li>To be like the Christ of the four Gospels, one must be learned, well dressed, well supplied with money, and of noble and commanding appearance, speaking with authority, and having tremendous magnetic power.</li>
-										<li>His Attitude &mdash; He declared His fealty to humanity by proclaiming &ldquo;I am a son of Man.&rdquo;</li>
-										<li>The World Jesus Lived In &mdash; full of extortion, corruption and oppression at every level.</li>
-										<li>The Sects of Jesus&rsquo; Day &mdash; even among the Jewish people, there was tremendous disagreement, and innumerable rules to follow.</li>
-										<li>The New Thought of Jesus&rsquo; Time: Into this maze of oppression, taxation, murder, outrage and theological discussion comes the grand, strong figure of this young prince and scholar, saying; &ldquo;The Spirit of the Lord is upon me, for he hath anointed me to preach good news to the poor.&nbsp; I am no Pharisee; I am no Sadducee, Essene, or Samaritan; I am a man.&nbsp; I come, not in behalf of Pharisaism or Samaritanism, but in behalf of humanity.&rdquo;</li>
+										<li>His Attitude – He declared His fealty to humanity by proclaiming “I am a son of Man.”</li>
+										<li>The World Jesus Lived In – full of extortion, corruption and oppression at every level.</li>
+										<li>The Sects of Jesus’ Day – even among the Jewish people, there was tremendous disagreement, and innumerable rules to follow.</li>
+										<li>The New Thought of Jesus’ Time: Into this maze of oppression, taxation, murder, outrage and theological discussion comes the grand, strong figure of this young prince and scholar, saying; “The Spirit of the Lord is upon me, for he hath anointed me to preach good news to the poor.&nbsp; I am no Pharisee; I am no Sadducee, Essene, or Samaritan; I am a man.&nbsp; I come, not in behalf of Pharisaism or Samaritanism, but in behalf of humanity.”</li>
 										<li>Why Jesus was vested with Authority to pass judgment and what this means to You today.</li>
-										<li>Jesus&rsquo; Teachings About Man &mdash; &ldquo;To this end was I born, and for this cause came I into the world, that I should bear witness to the truth.&rdquo;</li>
+										<li>Jesus’ Teachings About Man – “To this end was I born, and for this cause came I into the world, that I should bear witness to the truth.”</li>
 										<li>All men are equal in the eyes of God; to be little any man as being inferior is to condemn yourself.&nbsp; The Truths, the Universal Laws, all command that we love each other.</li>
-										<li>Understand Jesus&rsquo; true teachings on the Sabbath, Organizations, Little Children.</li>
-										<li>Jesus&rsquo; Teachings About WEALTH &mdash; What Jesus actually taught about the attainment of Wealth will SHOCK You!</li>
-										<li>&ldquo;Seek the kind of kingdom your Father wants; a perfectly righteous order of things, and you will have plenty of everything.&rdquo;</li>
-										<li>Jesus actually taught not to worry or be concerned with lack and limitation; rather, the Father provides Wealth for ALL &mdash; and in this Life.</li>
-										<li>&ldquo;The Kingdom of God&rdquo; &mdash; what Jesus really meant and why the Kingdom is available to You here and now.</li>
-										<li>Jesus&rsquo; Teachings on Equality and Democracy &mdash; Revolutionary at that time and literally hundreds and hundreds of years before those teachings would slowly be embraced.</li>
-										<li>The Golden Rule: &ldquo;Love Thy Neighbor.&rdquo;&nbsp; Why You MUST follow this mandate in order to reap Prosperity and Abundance in this Life.</li>
+										<li>Understand Jesus’ true teachings on the Sabbath, Organizations, Little Children.</li>
+										<li>Jesus’ Teachings About WEALTH – What Jesus actually taught about the attainment of Wealth will SHOCK You!</li>
+										<li>“Seek the kind of kingdom your Father wants; a perfectly righteous order of things, and you will have plenty of everything.”</li>
+										<li>Jesus actually taught not to worry or be concerned with lack and limitation; rather, the Father provides Wealth for ALL – and in this Life.</li>
+										<li>“The Kingdom of God” – what Jesus really meant and why the Kingdom is available to You here and now.</li>
+										<li>Jesus’ Teachings on Equality and Democracy – Revolutionary at that time and literally hundreds and hundreds of years before those teachings would slowly be embraced.</li>
+										<li>The Golden Rule: “Love Thy Neighbor.”&nbsp; Why You MUST follow this mandate in order to reap Prosperity and Abundance in this Life.</li>
 										<li>Why the Apostles so misunderstood the Teachings of Jesus at that time,</li>
-										<li>The Source of Power &mdash; Learn the Source of Jesus&rsquo; &ldquo;miraculous&rdquo; Powers and how those same Powers are made available to everyone from Supreme Intelligence, God the Father.</li>
-										<li>&ldquo;The Unity of Man in God&rdquo; &mdash; what it means and why it is important to attaining Your Desires.</li>
-										<li>&ldquo;Cosmic Consciousness&rdquo; &mdash; uniting Your Consciousness with Universal Consciousness.</li>
-										<li>Jesus&rsquo; Relationship with God, the Father: a model for EVERYONE.</li>
-										<li>Attaining Cosmic Consciousness &mdash; &ldquo;And this is Life Eternal: to know God.&rdquo;</li>
+										<li>The Source of Power – Learn the Source of Jesus’ “miraculous” Powers and how those same Powers are made available to everyone from Supreme Intelligence, God the Father.</li>
+										<li>“The Unity of Man in God” – what it means and why it is important to attaining Your Desires.</li>
+										<li>“Cosmic Consciousness” – uniting Your Consciousness with Universal Consciousness.</li>
+										<li>Jesus’ Relationship with God, the Father: a model for EVERYONE.</li>
+										<li>Attaining Cosmic Consciousness – “And this is Life Eternal: to know God.”</li>
 										<li>Prayer: The extension of Consciousness through Mental Effort to unite with Divine Consciousness.</li>
-										<li>Prayer &mdash; as Jesus taught us to pray!</li>
+										<li>Prayer – as Jesus taught us to pray!</li>
 										<li>Knowing the Will of the Father so as to unite Your Will for the attainment of the Good that You Desire and Deserve.</li>
-										<li>The Power of Faith and the Process of Receiving &mdash; as taught by Jesus for all Mankind to use to Grow and give glory.</li>
-										<li>&ldquo;The Mind of Christ&rdquo; &mdash; what it means &mdash; to YOU.</li>
-										<li>Demonstration and Attainment &mdash; Attaining a Life of Abundance through Christ.</li>
+										<li>The Power of Faith and the Process of Receiving – as taught by Jesus for all Mankind to use to Grow and give glory.</li>
+										<li>“The Mind of Christ” – what it means – to YOU.</li>
+										<li>Demonstration and Attainment – Attaining a Life of Abundance through Christ.</li>
 										<li>Demonstration and Attainment of Health Consciousness, Power Consciousness, Wisdom Consciousness, and Wealth Consciousness.</li>
 									</ul>
 									
@@ -183,27 +183,27 @@
 								<div class="box-white">
 									<h2 class=vol-title">The Law of Opulence</h2>
 									<img src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/vol-4-4-img.jpg" class="inline-left" title="The Law of Opulence" alt="The Law of Opulence" height="235" width="300"/>
-									<p class="regular">The Kingdom of God is at hand &mdash; here and NOW &mdash; and may be attained under the Law of Opulence.</p>
+									<p class="regular">The Kingdom of God is at hand – here and NOW – and may be attained under the Law of Opulence.</p>
 									<p class="regular">Lack and Limitation are only imagined.&nbsp; In truth, the Universe is INFINITE and the Supply is INEXHAUSTABLE?&nbsp; So why do we confine ourselves to an austere Life of Lack and Limitation?</p>
-									<p class="regular">In &ldquo;The Law of Opulence,&rdquo; you will learn WHY you MUST abandon the concepts of competition and a limited supply in order to reap the Abundance and Prosperity of the Creative Plane that is available to You &mdash; RIGHT NOW!</p>
+									<p class="regular">In “The Law of Opulence,” you will learn WHY you MUST abandon the concepts of competition and a limited supply in order to reap the Abundance and Prosperity of the Creative Plane that is available to You – RIGHT NOW!</p>
 									<p class="regular">Lasting, Honest and Sincere Success and Prosperity are NOT gained through Competition.&nbsp; Only by focusing YOUR Thoughts and Actions according to Constructive Science on the Creative Plane will you Advance and Attain the Good that you Desire.</p>
-									<p class="regular">A practical seven-step Success Guide, &ldquo;The Law of Opulence&rdquo; will provide you with the Blueprint for a Creative and Constructive reality.&nbsp; This beautiful, inspiring Spiritual work by Wattles will dramatically impact the way you Think and Feel about Life &mdash; IMMEDIATELY!</p>
+									<p class="regular">A practical seven-step Success Guide, “The Law of Opulence” will provide you with the Blueprint for a Creative and Constructive reality.&nbsp; This beautiful, inspiring Spiritual work by Wattles will dramatically impact the way you Think and Feel about Life – IMMEDIATELY!</p>
 
 									<div id="divider"> 
 										<img src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/divider.png" /> 
 									</div><!-- #divider close -->	
 									
 									<ul class="tick">
-										<li>The Kingdom of God &mdash; Why You MUST abandon the concepts of competition and a limited supply in order to reap the Abundance and Prosperity of the Creative Plane that is available to You.</li>
+										<li>The Kingdom of God – Why You MUST abandon the concepts of competition and a limited supply in order to reap the Abundance and Prosperity of the Creative Plane that is available to You.</li>
 										<li>Why Success attained on the Competitive Plane is not lasting Success.</li>
-										<li>Why recognition of a limited supply promotes fear, doubt and worry &mdash; all negative emotions that only attract more lack and limitation.</li>
-										<li>Why scarcity, lack and limitation are only states of Mind and how to dispose of them &mdash; for good!</li>
-										<li>Understanding that &ldquo;The living of life consists in continually advancing into more life,&rdquo; and that it is God&rsquo;s intention that You advance into more life (Growth).</li>
-										<li>Why it is God&rsquo;s purpose that You should have Life, and have it more Abundantly.</li>
-										<li>&ldquo;All things desire the advancement of every man.&nbsp; If a man desires any good thing in order to live his life more fully, that thing desires him also.&rdquo;</li>
+										<li>Why recognition of a limited supply promotes fear, doubt and worry – all negative emotions that only attract more lack and limitation.</li>
+										<li>Why scarcity, lack and limitation are only states of Mind and how to dispose of them – for good!</li>
+										<li>Understanding that “The living of life consists in continually advancing into more life,” and that it is God’s intention that You advance into more life (Growth).</li>
+										<li>Why it is God’s purpose that You should have Life, and have it more Abundantly.</li>
+										<li>“All things desire the advancement of every man.&nbsp; If a man desires any good thing in order to live his life more fully, that thing desires him also.”</li>
 
-										<li>Abundance &mdash; &ldquo;I come that they might have life; and that they might have it more abundantly.&rdquo;</li>
-										<li>&ldquo;God, the Mind of nature, produces the Abundance of nature with the purpose of providing for the development of man; not of some men, but of man.&rdquo;</li>
+										<li>Abundance – “I come that they might have life; and that they might have it more abundantly.”</li>
+										<li>“God, the Mind of nature, produces the Abundance of nature with the purpose of providing for the development of man; not of some men, but of man.”</li>
 										<li>Why Competition divides God against Himself, and thus, works against Universal Laws of Attraction and Abundance.</li>
 										<li>The Seven Requirements for Non-Competitive Success and how to implement them in Your Life Today.</li>
 									</ul>

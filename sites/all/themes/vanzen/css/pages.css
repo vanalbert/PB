@@ -40,14 +40,6 @@ p {
 	font-size: 100%;
 	}
 
-
-
-
-
-
-
-
-
 /*
  * The skip-link link will be completely hidden until a user tabs to the link.
  * See the element-focusable rule in system.base.css.
@@ -121,18 +113,16 @@ div#site-name /* The name of the website */ {
 }
 
 #main {
-	/* VE edit */
+	/* VE */
 	background-color: #180800;
-	/* VE close */
 }
 
 /*
  * Content
  */
  
-/* VE copied in from layout-fixed.css, this will override that for the page display */
+/* VE copied in from layout-fixed.css to override page display */
 #content .section {
-  /* VE margin: 20px; */
   padding: 0;
 }
 /* VE close */
@@ -168,7 +158,6 @@ h1#page-title {
 #content .section {
 }
 
-
  /* VE - CUSTOM PB PAGE STYLES */
  
  a:link {
@@ -191,8 +180,6 @@ h1#page-title {
 	margin: 10px 0 0px 20px;
 	border: 1px solid white;
 }
-
-
  
 #content-intro h2.intro-one {
 	font-size: 240%;
@@ -214,7 +201,7 @@ h1#page-title {
 	margin: 20px 10px 40px 120px;
 	}
 
- #content span.drop-cap {
+#content span.drop-cap {
 	 font-size: 160%;
 	 line-height: 0.85em;
 	 margin-right: -0.03em;
@@ -229,7 +216,7 @@ h1#page-title {
 	text-align: center;
 	margin: 20px 10px 25px 10px;
 	padding: 20px;
-	}
+}
 	
 #content p.what-if {
 	font-family: "Book Antiqua",Arial;	
@@ -339,11 +326,9 @@ img.guaranteed {
 	margin: 0px 0 20px 190px;
 }
 
-
 #content-body-grouplarge {
 	margin: 0 20px 0 100px;
 }
-
 
 p.regular, p.reg-center, p.reg-justify {
 	font-family: "Book Antiqua", Palatino, "Times New Roman", serif;	
@@ -393,8 +378,6 @@ p.now-you-can {
 border: 1px solid white;
 }
 
-
-
 #content-about h2, #content-startnow h2, #content-body h2 {
 	font-size: 220%;
 	width: 600px;
@@ -435,11 +418,11 @@ border: 1px solid white;
 	text-align: left;
 	font-size: 14px;
 	margin: 0 30px 10px 40px;
-	}
+}
 	
 #content-terms {
    font: 14px/23px "Lucida Grande","Lucida Sans","Lucida Sans Unicode","Lucida",Verdana,"Bitstream Vera Sans",sans-serif;
-   }
+}
 	
 #content-terms h1 {
 	font-family: 'IM Fell DW Pica';
@@ -473,7 +456,6 @@ border: 1px solid white;
 	text-decoration: underline;
 }
 
-
 #content-terms p {
 	font-family: "Lucida Grande","Lucida Sans","Lucida Sans Unicode","Lucida",Verdana,"Bitstream Vera Sans",sans-serif;
 	margin: 10px 30px 10px 40px;
@@ -506,8 +488,6 @@ border: 1px solid white;
 #content-terms dl {
 	margin-left: 40px;
 }
-
-
 	
 #content-body h2.bonus {
 	color: #000000;
@@ -538,7 +518,7 @@ border: 1px solid white;
 	text-align: center;
 	color: white;
 	margin: 0px 10px 0px 80px;
-	}
+}
 	
 #content-startnow p {
 	font-family: "Book Antiqua", Palatino, "Times New Roman", serif;
@@ -557,7 +537,7 @@ p.about, p.startnow {
 
 #content-about a  {
 	color: #C6B663;
-	}
+}
 	
 .alert {
 	background-color: #CE7563;
@@ -630,7 +610,6 @@ p.sell-1{
 	margin: 10px;
 }
 
-
 p.paypal-1 {
 	font-size: 140%;
 	text-align: center;
@@ -654,11 +633,9 @@ span.black-text {
 color: #000000;
 }
 
-
 span.green-text {
 color: #A5B284;	
 }
-
 
 span.uline {
 	text-decoration: underline;
@@ -751,25 +728,7 @@ ol.disc li {
 
 }
 
-
-
-
-
-
-
-
-
 /* END CUSTOM PB STYLES - VE */
-
-
-
-
-
-
-
-
-
-
 
 
 .region-highlighted {
