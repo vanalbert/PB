@@ -260,7 +260,6 @@ function zen_preprocess_maintenance_page(&$variables, $hook) {
  * @param $hook
  *   The name of the template being rendered ("node" in this case.)
  */
-
 function zen_preprocess_node(&$variables, $hook) {
   // Add $unpublished variable.
   $variables['unpublished'] = (!$variables['status']) ? TRUE : FALSE;
@@ -269,20 +268,6 @@ function zen_preprocess_node(&$variables, $hook) {
   if (!$variables['teaser']) {
     $variables['classes_array'][] = 'view-mode-' . $variables['view_mode'];
   }
-
-
-
-  // VE - Added this to suppress teaser content display on front page and disable 'read more' as per http://drupal.org/node/1042720.
-function Vanzen_preprocess_node(&$variables) {
-	$variables['view_mode'] = 'full';
-	$variables['page'] = TRUE;
-	$variables['content']['links'] = FALSE; // This is to remove the 'Read more' link
-}
-
-
-
-
-
 
   // Add a class to show node is authored by current user.
   if ($variables['uid'] && $variables['uid'] == $GLOBALS['user']->uid) {

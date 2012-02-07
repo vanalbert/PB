@@ -140,3 +140,23 @@ function Vanzen_preprocess_block(&$variables, $hook) {
   $variables['classes_array'][] = 'count-' . $variables['block_id'];
 }
 // */
+
+
+// Customize menu li & links
+function vanzen_menu_link($variables)
+{
+    $element    = $variables['element'];
+    $sub_menu   = '';
+ 
+    if ($element['#below']) {
+        $sub_menu = drupal_render($element['#below']);
+    }
+ 
+    // Enable this to use html in title, eg img, span or something else...
+    $element['#localized_options']['html'] = true;
+ 
+    $link = l('<span>' . $element['#title'] . '</span>', $element['#href'], $element['#localized_options']);
+ 
+    return '<li' . drupal_attributes($element['#attributes']) . '>' . $link . $sub_menu . "</li>n";
+}
+

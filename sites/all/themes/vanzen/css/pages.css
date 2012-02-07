@@ -15,7 +15,6 @@ body {
 
   /* VE edit */
 	font-family: "Book Antiqua", Palatino, serif;
-	background-image: url(../images/bg-noise.gif);
 	background-color: #180800;
   /* VE close*/
 	margin: 0;
@@ -24,10 +23,10 @@ body {
 
 #page-wrapper {
 	/* VE edit */
-	margin-top: 10px;
+	top: 0px;
+	margin-top: 0px;
+	padding: 0;
   	width: 840px;
-	background-color: #FFFFFF;
-	border: 1px solid gold;
 	/* VE close */
 }
 
@@ -59,8 +58,8 @@ p {
  */
 #header {
 	/* VE edit */
-	background-color: #180800;
-	border-bottom: 1px solid gold;
+	margin: 0px 0 0 0;
+	background-color: transparent;
 	/* VE close */
 }
 
@@ -69,12 +68,13 @@ p {
 
 #logo /* Wrapping link for logo */ {
   float: left; /* LTR */
-  margin: 0;
+  margin: 20px 0 0 0;
   padding: 0;
 }
 
 #logo img {
-  vertical-align: bottom;
+	margin: 0 0 0 35px;
+	vertical-align: bottom;
 }
 
 #name-and-slogan /* Wrapper for website name and slogan */ {
@@ -126,19 +126,363 @@ div#site-name /* The name of the website */ {
   padding: 0;
 }
 /* VE close */
- 
- 
-/* VE - turn off Home page title */
+
+/* VE Page body - Page background image */
+
+#page-body {
+	background-image:url(../images/bg.jpg);
+	background-repeat: repeat-x;
+	}
+
+/* VE - turn off Home page title - OLD */
+
 h1#page-title {
 	display: none;
 }
-/* VE close */
+
+/* VE Drop shadow style */
+.shadow {
+-moz-box-shadow: 3px 3px 4px #000;
+-webkit-box-shadow: 3px 3px 4px #000;
+.box-shadow: 3px 3px 4px #000;
+/* For IE 8 */
+.-ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#000000')";
+./* For IE 5.5 - 7 */
+.filter: progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#000000');
+}
+
+/* VE Contact Page Styles */
+
+p.contact {
+	
+}
+
+.node-contact-page {
+	font-family: "Lucida Grande","Lucida Sans","Lucida Sans Unicode","Lucida",Verdana,"Bitstream Vera Sans",sans-serif;	
+	width: 800px;
+	background-color: white;
+	border: 1px solid #cc0000; 
+	margin: 15px 35px 0 20px;
+	display: block;
+	height: 100%
+}
 
 
+input, fieldset, legend {
+	font-family: "Lucida Grande","Lucida Sans","Lucida Sans Unicode","Lucida",Verdana,"Bitstream Vera Sans",sans-serif;	
+}
+
+label {
+	font-size: 12px;
+	font-weight: normal;
+	}
+
+input#edit-submitted-email-enter-your-message {
+	height: 100px;
+	width: 600px;
+	}
+
+#webform-component-email--e-mail-address, #webform-component-email--send-receipt {
+	float: left;
+	padding-left: 30px;
+}
+
+#webform-component-email--enter-your-name, #webform-component-email--message-subject, #webform-component-email--enter-your-message  {
+	float: left;
+	margin-left: 30px;
+	}
+
+#edit-submitted-email-message-subject {
+	width: 590px;
+	}
+	
+input#edit-submit {
+	font-size: 14px;
+	width: 120px;
+	height: 30px;
+	float: left;
+	margin: -80px 0 40px 510px;
+}
+
+ input, textarea { 
+  background-color:#dfdfdf;
+}
+
+.node-contact-page h3 {
+	font-family: 'IM Fell DW Pica';
+	font-size: 180%;
+	width: 600px;
+	line-height: 1em;
+	text-align: center;
+	color: #C6B663;
+	margin: 30px 10px 0px 80px;
+	}
+	
+#submission-confirm-wrap {
+}
+
+#submission-confirm {
+	margin: 80px 0 80px 20px;
+}
+
+#submission-confirm .links, #submission-confirm p {
+	font-family: "Lucida Grande","Lucida Sans","Lucida Sans Unicode","Lucida",Verdana,"Bitstream Vera Sans",sans-serif;	
+	text-align: center;
+}
+
+.webform-client-form {
+	background-color: white;
+	width: 680px;
+	margin: 0 0 0 40px;
+	border: 1px solid green;
+}
+
+/* VE Uebercart styles */
+
+.profile {
+	margin: -23px 0 0 30px;
+	background-color: #FFFFFF;
+}
+
+ul.tabs {
+	margin: 20px 0 0 35px;
+}
+
+.profile h3, .profile dl {
+	padding: 40px;
+	}
+
+.breadcrumb {
+	display: none;
+}
+
+ table.uc-order-history {
+	margin: 40px;
+}
+
+.uc-order-history tr {
+	height: 30px;
+	background-color: #FFFFFF;
+}
+
+.uc-order-history th {	
+	width: 140px;
+	height: 30px;
+}
+
+/* Login Page Styles */
+
+.node-login-page {
+	width: 800px;
+	background-color: #FFFFFF;
+}
+
+.node-login-page input {
+	float: none;
+}
+
+/* VE - turn off node titles of home-page nodes */
+.home-page h2, .overview-page h2 {
+	display: none;
+}
+
+/*VE Affiliate page styles */
+
+#affiliate {
+		font-family: "Lucida Grande","Lucida Sans","Lucida Sans Unicode","Lucida",Verdana,"Bitstream Vera Sans",sans-serif;
+}
+
+#affiliate h1 {
+	font-family: "Lucida Grande","Lucida Sans","Lucida Sans Unicode","Lucida",Verdana,"Bitstream Vera Sans",sans-serif;
+	font-size: 18px;
+	width: 640px;
+	color: #FFFFFF;
+	font-weight: bold;
+	text-align: center;
+	margin-left: 90px;
+	}
+
+#affiliate h2 {
+	font-family: "Lucida Grande","Lucida Sans","Lucida Sans Unicode","Lucida",Verdana,"Bitstream Vera Sans",sans-serif;
+	font-size: 16px;
+	width: 640px;
+	color: red;
+	font-weight: bold;
+	text-align: center;
+	margin-left: 90px;
+	}
+
+#affiliate h4 {
+	text-align: center;
+}
+
+#affiliate img {
+	margin-left: 180px;
+}
+
+#affiliate ol {
+	font-size: 14px;
+	margin: 0 35px 0 35px;
+}
+
+/* VE Styles for Temporary Affiliate form copied from old PB site */
+
+#terms fieldset {
+	margin: 0 0 0 30px;
+
+}
+
+
+
+
+
+
+
+
+
+
+/* VE PB Volume Styles */
+
+#quicktabs-prosperity_bible_volumes ul {
+	margin: 0 0 0 80px;
+}
+
+
+#quicktabs-prosperity_bible_volumes a {
+	color: red;
+}
+
+
+
+h2.volume {
+	font-family: 'IM Fell DW Pica';	
+	font-size:180%;
+	color: red;
+	text-align: center;
+	float: left;
+	border: none;
+	width:500px;
+	margin: 20px 0 0 160px;
+}
+
+.volume h3 {
+	font-family: 'IM Fell DW Pica';	
+	font-size: 190%;
+	color: black;
+	text-align: center;
+	display: block;
+	border: none;
+	width: 500px;
+	margin:0px 0 20px 160px;
+}
+
+h2.block-title {
+	display: none;
+}
+
+h2.node-title {
+	display: none;
+}
+
+
+.tabs ul.primary li a {
+    background-color: #EDEDED;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    color: #000000;
+    display: block;
+    float: left;
+    font-size: 0.929em;
+    height: 1.8em;
+    line-height: 1.9;
+    margin: 0;
+    padding: 0 10px 3px;
+    text-shadow: 0 1px 0 #FFFFFF;
+}
+
+ul.primary li a {
+    background-color: #DDDDDD;
+    border-color: #BBBBBB;
+    border-style: solid solid none;
+    border-width: 1px;
+    height: auto;
+    margin-right: 0.5em;
+    padding: 0 1em;
+    text-decoration: none;
+}
+
+/* VE - Space below node content  */
+
+.node {
+	margin-bottom: 10px;
+	}
+
+
+
+
+
+/* VE Footer */
+
+#footer-image {
+	height: 100px;
+	width: 100%;
+	background-image:url(../images/page_footer_bg.jpg);
+	background-repeat: repeat-x;
+	margin: -100px 0 0 0;
+
+}
+
+/* VE Set footer region height, close up the gap between node and footer */
+.region-footer {
+	height: 100px;
+	width: 860px;
+	text-align: center;
+	margin-top: -20px;
+	}
+
+#footer {
+	width: 800px;
+	float: left;
+	height: 100px;
+	margin: 10px 0 0 0;
+}
+
+#footer ul {
+	width: 760px;
+	list-style: none outside none;
+	margin: 0px 0 0px 0px;
+	text-align: center;
+	}
+	
+#footer li {
+	margin: 0px 15px 0px 0px;
+	display: inline;
+}
+
+#footer a:link, #footer a:visited {
+	font-family: "Lucida Grande","Lucida Sans","Lucida Sans Unicode","Lucida",Verdana,"Bitstream Vera Sans",sans-serif;
+	font-weight: normal;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-size: 12px;
+}
+
+#footer a:hover {
+	color: #C6B663;
+}
+
+p.footer {
+	font-size: 12px;
+	color: #FFFFFF;
+	text-align: center;
+	margin: 5px 0 0 0;
+	}
+
+/* VE Content */
 
 .no-sidebars #content {
   float: left; /* LTR */
-  width: 780px;
+  width: 860px;
   margin-left: 0; /* LTR */
   /* margin-right: -780px;  LTR   Negative value of #content's width + left margin. */
   padding: 0; /* DO NOT CHANGE. Add padding or margin to #content .section. */
@@ -146,7 +490,21 @@ h1#page-title {
 
 }
 
-#content {
+.view-content {
+	float: left; /* LTR */
+	width: 840px;
+	/* VE commented out from layout-fixed.css: margin-right: -780px;  LTR   Negative value of #content's width + left margin. */
+	padding: 0; /* DO NOT CHANGE. Add padding or margin to #content .section. */
+	background-color: #180800;
+	margin-left: 0; /* LTR */
+}
+
+/* VE Override the default 1.5em table border in html-reset.css */
+.view-home-page table {
+	margin: 0;
+}
+
+.home-page {
 	float: left; /* LTR */
 	width: 840px;
 	/* VE commented out from layout-fixed.css: margin-right: -780px;  LTR   Negative value of #content's width + left margin. */
@@ -171,17 +529,42 @@ h1#page-title {
 	}
  
  
-#content-intro {
-	width: 840px;
-	background-image:url(../images/monastery.jpg);	
-	height: 426px;
+#content-intro, .intro-box {
+	background-image:url(../images/monastery.jpg);
+	background-repeat: no-repeat;
 	width: 800px;
 	background-color: #180800;
 	margin: 10px 0 0px 20px;
 	border: 1px solid white;
 }
+
+.intro-box h2 {
+	font-size: 200%;
+	width: 600px;
+	line-height: 1em;
+	color: #FFF;
+	text-align: center;
+	text-decoration: underline;
+	margin: 0px 10px 20px 100px;
+	padding-top: 10px;
+	display: block;
+}
+
+.intro-box h3 {
+	font-family: 'IM Fell DW Pica';
+	font-size: 160%;
+	width: 600px;
+	line-height: 1em;
+	text-align: center;
+	color: #C6B663;
+	margin: 0px 10px 0px 80px;
+}
+
+.intro-box p.about {
+	margin: 10px 40px 10px 40px;
+}
  
-#content-intro h2.intro-one {
+.home-page h2.intro-one {
 	font-size: 240%;
 	width: 600px;
 	line-height: 1em;
@@ -190,15 +573,17 @@ h1#page-title {
 	text-decoration: underline;
 	margin: 0px 10px 50px 120px;
 	padding-top: 30px;
+	display: block;
 	}
 	
-#content h2.intro-two {
+.home-page h2.intro-two {
 	font-size: 200%;
 	width: 600px;
 	line-height: 1em;
 	text-align: center;
 	color: #f5d975;
 	margin: 20px 10px 40px 120px;
+	display: block;
 	}
 
 #content span.drop-cap {
@@ -217,9 +602,10 @@ h1#page-title {
 	margin: 20px 10px 25px 10px;
 	padding: 20px;
 }
+
 	
 #content p.what-if {
-	font-family: "Book Antiqua",Arial;	
+	font-family: 'IM Fell DW Pica';	
 	font-size: 180%;
 	width: 620px;
 	font-weight: bold;
@@ -227,7 +613,7 @@ h1#page-title {
 	font-weight: bold;
 	color: white;
 	text-align: center;
-	margin: 20px 10px 0 110px;
+	margin: 20px 10px 10px 110px;
 }
 
 #content p.standard {
@@ -253,19 +639,19 @@ h1#page-title {
 	border: 1px solid white;
 }
 
-.intro-box {
-	width: 720px;
-	margin: 0 0 0 40px;
-}
-
-.box-white {
-	width: 740px;
+.box-white, .volume {
+	width: 800px;
 	background-color: white;
-	border: 1px solid #cc0000; 
-	margin: 15px 35px 0 30px;
+	border: 1px solid gold; 
+	margin: 5px 35px 0 20px;
 	display: block;
 	height: 100%;
 }
+
+.volume {
+	border-top: none;
+}
+
 
 .box-red-bg {
 	width: 740px;
@@ -276,7 +662,7 @@ h1#page-title {
 .box-gold-bg {
 	width: 640px;
 	border: 3px solid #C6B663;
-	margin: 0 0 0 35px;
+	margin: 0 0 0 60px;
 	background-color: #A5B284;
 	padding: 1px 0 1px 0;	
 	/* VE I don't understand why if I put any padding in here it increases the vertical padding by 30px. */
@@ -319,22 +705,42 @@ b.signature {
 }
 
 img.buynow {
-	margin: 20px 0 0px 70px;
+	margin: 20px 0 0px 90px;
 }
 
 img.guaranteed {
-	margin: 0px 0 20px 190px;
+	margin: 0px 0 20px 210px;
 }
 
 #content-body-grouplarge {
-	margin: 0 20px 0 100px;
+	margin: 20px 20px 0 130px;
 }
+
+h1.intro {
+	font-family: 'IM Fell DW Pica';		
+	font-size: 180%;
+	line-height: 1.2em;
+	color: white;
+	text-align: center;
+	margin: 5px 30px 10px 20px;
+	padding: 10px 0 0 0;
+	}
 
 p.regular, p.reg-center, p.reg-justify {
 	font-family: "Book Antiqua", Palatino, "Times New Roman", serif;	
 	font-size: 130%;
 	line-height: 1.2em;
 	color: black;
+	text-align: left;
+	margin: 5px 30px 10px 20px;
+	padding: 10px 0 0 15px;	
+}
+
+p.intro, p.intro-center, p.intro-justify {
+	font-family: "Book Antiqua", Palatino, "Times New Roman", serif;	
+	font-size: 130%;
+	line-height: 1.2em;
+	color: white;
 	text-align: left;
 	margin: 5px 30px 10px 20px;
 	padding: 10px 0 0 15px;	
@@ -348,17 +754,27 @@ p.reg-justify {
 	text-align: justify;
 }
 
-p.now-you-can {
+p.now-you-can, p.read-on {
 	font-family: "Book Antiqua", Palatino, "Times New Roman", serif;
 	font-size: 170%;
 	line-height: 1.1em;
 	font-weight: bold;
 	color: #cc0000;
-	margin: 15px 0 15px 40px;
+	margin: 10px 0 5px 40px;
 	text-align: center;
 }
 
+p.read-on {
+	margin-bottom: 20px;
+	}
+
 /* About Page styles */
+
+h4.about {
+	text-align: center;
+	color: #FFFFFF;
+	margin: 25px 0 5px 0;
+}
 	
 #inline-image {
 	width: 720px;
@@ -389,53 +805,51 @@ border: 1px solid white;
 	padding-top: 10px;
 	}
 	
-#content-guarantee h1 {
-	text-align: center;'
+#guarantee h1 {
+	color: #C7B553;
+	text-align: center;
+	text-transform: uppercase;
+	text-decoration: underline;
+}
+
+#guarantee h2 {
+	font-size: 18px;
+	color: #757575;
+	text-align: center;
+	text-decoration: underline;
 }
 	
-#content-guarantee h2, #content-guarantee h3 {
+#guarantee h3 {
 	font-family: 'Droid Serif', Georgia, "Book Antiqua", serif;	
-	font-size: 160%;
+	font-size: 120%;
 	line-height: 1em;
 	color: #00000;
-	text-align: center;
+	text-transform: uppercase;
 	margin: 0px 0px 20px 40px;
 	padding-top: 10px;
 	}
 
-#content-guarantee h3 {
-	font-size: 160%;
-	text-align: left;
-	margin-bottom: 10px;
-	}
 
-#content-guarantee img {
+#guarantee img {
 	margin: 0 0 0 200px;
 }
 
-#content-guarantee p {
-	font-family: Arial, sans-serif;
-	text-align: left;
-	font-size: 14px;
-	margin: 0 30px 10px 40px;
+/* Terms And Conditions Pages */
+	
+#terms, p.terms, #footer p.footer, #terms p.disclaimers, p.contact {
+	font-family: "Lucida Grande","Lucida Sans","Lucida Sans Unicode","Lucida",Verdana,"Bitstream Vera Sans",sans-serif;
 }
 	
-#content-terms {
-   font: 14px/23px "Lucida Grande","Lucida Sans","Lucida Sans Unicode","Lucida",Verdana,"Bitstream Vera Sans",sans-serif;
-}
-	
-#content-terms h1 {
-	font-family: 'IM Fell DW Pica';
-	font-size: 240%;
+#terms h1 {
+	font-size: 160%;
 	line-height: 1.1em;
 	color: #00000;
-	text-align: left;
-	margin: 0px 0px 20px 40px;
+	text-align: center;
+	margin: 20px 0px 20px 0px;
 	padding-top: 10px;
 }
 
-#content-terms h2 {
-    font: 24px "Lucida Grande","Lucida Sans","Lucida Sans Unicode","Lucida",Verdana,"Bitstream Vera Sans",sans-serif;
+#terms h2 {
 	font-weight: bold;
 	line-height: 1em;
 	color: #00000;
@@ -445,8 +859,7 @@ border: 1px solid white;
 	text-decoration: underline;
 }
 
-#content-terms h4 {
-    font: 14px "Lucida Grande","Lucida Sans","Lucida Sans Unicode","Lucida",Verdana,"Bitstream Vera Sans",sans-serif;
+#terms h4 {
 	font-weight: bold;
 	line-height: 1em;
 	color: #000000;
@@ -456,44 +869,43 @@ border: 1px solid white;
 	text-decoration: underline;
 }
 
-#content-terms p {
-	font-family: "Lucida Grande","Lucida Sans","Lucida Sans Unicode","Lucida",Verdana,"Bitstream Vera Sans",sans-serif;
-	margin: 10px 30px 10px 40px;
-}
-
-#content-terms p.disclaimers {
-	margin: 0 30px 5px 40px;
-}
-
-#content-terms ul {
-	list-style-type: none;
-	margin-left: 45px;
-}
-
-#content-terms a, #content-terms a:hover, #content-terms a:active, #content-terms a:visited {
-    color: blue;
+#terms a, #terms a:hover, #terms a:active, #terms a:visited {
+    color: #000000;
     font-weight: bold;
 	text-decoration: none;
 }
 
-#content-terms a.header, #content-terms a.header:hover, #content-terms a.header:active, #content-terms a.header:visited {
-    color: #000000;
-    font-weight: bold;
+p.terms, p.contact {
+	font-size: 14px;
+	margin: 10px 30px 10px 40px;
 }
 
-#content-terms img {
-	margin: 0 0 0 160px;
+#terms p.disclaimers {
+	margin: 0 30px 5px 40px;
 }
 
-#content-terms dl {
+#terms ul {
+	width: 720px;
+	font-size: 14px;
+	list-style-type: none;
+	margin-left: 20px;
+}
+
+#terms ol {
+	margin: 0 50px 10px 20px;
+	}
+
+#terms img {
+	margin: 0 0 0 190px;
+}
+
+#terms dl {
 	margin-left: 40px;
 }
+
+
 	
-#content-body h2.bonus {
-	color: #000000;
-	text-align: center;
-	margin-left: 80px;
-}
+/* Content page styles  */
 
 #content-body h3.red {
 	color: #cc0000;
@@ -538,27 +950,6 @@ p.about, p.startnow {
 #content-about a  {
 	color: #C6B663;
 }
-	
-.alert {
-	background-color: #CE7563;
-	margin: 20px 30px 0px 30px;
-}
-
-img.inline-left {
-float: left;
-margin: 0 0 0 10px;
-padding: 0 25px 0 25px;	
-}
-
-p.alert {
-font-family: "Book Antiqua", Palatino, "Times New Roman", serif;	
-font-size: 140%;
-color: white;
-padding: 15px;
-margin: 0 0 0px 33px;
-text-align: center;
-	
-}
 
 ul.tick {
 	list-style: none outside none;
@@ -577,13 +968,58 @@ ul.tick li {
 	background: url("../images/tick.png") no-repeat scroll 0px 0px transparent;
 }
 
-.alert ul {
+.included {
+	width: 760px;
+	background-color: #CE7563;
+	margin: 5px 30px 0px 20px
+}
+	
+
+
+img.inline-left {
+float: left;
+margin: 0 0 0 10px;
+padding: 0 25px 0 25px;	
+}
+
+p.alert, p.included {
+font-family: "Book Antiqua", Palatino, "Times New Roman", serif;	
+font-size: 140%;
+line-height: 1.1em;
+color: white;
+width: 700px;
+padding: 15px;
+margin:0px 40px 0px 40px;
+text-align: center;
+}
+
+p.explore {
+	font-size: 140%;
+	color: white;
+	width: 600px;
+	padding: 15px;
+	margin: 15px 10px 15px 50px;
+	text-align: center;
+	background-color: #CE7563;
+}
+
+p.included {
+	width: 650px;
+}
+
+.alert {
+	width: 760px;
+	background-color: #CE7563;
+	margin: 5px 30px 0px 40px;
+}
+
+.included  ul {
 	list-style-type: disc;
 	margin: 0 40px 0 40px;
 	padding-bottom: 20px;
 }
 
-.alert li {
+.included  li {
 	font-family: "Book Antiqua", Palatino, "Times New Roman", serif;	
 	font-size: 130%;
 	font-weight: normal;
@@ -593,11 +1029,12 @@ ul.tick li {
 	text-align: left;
 }
 
+
 p.caption-1 {
 	font-family: Arial, sans-serif;
     font-size: 16px;
     line-height: 1.2em;
-    margin: 5px 10px 0 10px;
+    margin: 5px 10px 20px 10px;
     padding: 10px;
     text-align: left;
 	font-style: none;
@@ -678,7 +1115,7 @@ background-color: #CE7563;
 }
 
 #divider {
-	margin: 20px 0 30px 50px;
+	margin: 10px 0 0px 50px;
 	}
 	
 #buynow-small {
@@ -707,7 +1144,7 @@ dd {
 
 dl {
 	display: block;
-	margin: 20px 0 20px 10px;
+	margin: 20px 0 20px 0px;
 	padding: 0;
 }
 
@@ -724,7 +1161,7 @@ ol.disc li {
     padding-left: 10px;
 	background-color: #FFFF99;
 	font-size: 16px;
-	width: 240px;
+	width: 400px;
 
 }
 
@@ -855,4 +1292,46 @@ ul.links li {
  * Page bottom
  */
 .region-bottom /* Wrapper for any blocks placed in the page bottom region */ {
+}
+
+/*SUPERFISH Menu */
+ul#superfish-1 {
+	font-family: "Lucida Grande","Lucida Sans","Lucida Sans Unicode","Lucida",Verdana,"Bitstream Vera Sans",sans-serif;	
+	list-style: none outside none;
+}
+
+ul#superfish-1 a {
+	text-decoration: none;
+	
+}
+
+ul#superfish-1 .sf-depth-1 {
+	font-size: 14px;
+	color: #FFFFFF;
+	font-weight: normal;
+	margin-top: 2px;
+    padding: 0.1em 1em;
+	text-transform: uppercase;
+	background-color: transparent;
+	border: none;
+}
+
+.sf-menu, .sf-menu * {
+    list-style: none outside none;
+    margin: 0;
+    padding: 0;
+}
+
+ul#superfish-1 .active-trail {
+	background-color: #200C05;
+}
+
+#superfish-1 span.sf-description {
+	font-style: italic;
+	font-size: 10px;
+	color: #FFFFFF;
+	text-transform: none;
+	margin: 0;
+	padding: 0;
+	display: block;
 }

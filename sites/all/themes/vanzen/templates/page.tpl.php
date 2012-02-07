@@ -69,16 +69,18 @@
  */
 ?>
 
-<div id="page-wrapper"><div id="page">
+<div id="page-body">
 
+<div id="page-wrapper">
   <div id="header"><div class="section clearfix">
   
  <!-- VE -->
 
-
-<div id="navigation" class="clearfix">
+	<div id="navigation" class="clearfix">
+	
 
 	<div class="section clearfix">
+		<!-- This is commented out to prevent two menus from displaying. The Superfish menu is the navigation menu, I guess 
         <?php print theme('links__system_main_menu', array(
           'links' => $main_menu,
           'attributes' => array(
@@ -91,17 +93,18 @@
             'class' => array('element-invisible'),
           ),
         )); ?>
+		-->
 
         <?php print render($page['navigation']); ?>
       </div> 
 
- </div><!-- #nav-container -->
-  
 
+
+	</div><!-- #navigation close -->
+ 
     <?php if ($logo): ?>
       <a href="<?php print $front_page; ?>" title="<?php print t('Home'); ?>" rel="home" id="logo"><img src="<?php print $logo; ?>" alt="<?php print t('Home'); ?>" /></a>
     <?php endif; ?>
-
 
 	<!-- VE Commenting this out because I won't be toggling the sitename or slogan on or off -->
 <!--    <?php if ($site_name || $site_slogan): ?>
@@ -139,51 +142,74 @@
     )); ?>
 
     <?php print render($page['header']); ?>
-
   </div></div><!-- /.section, /#header -->
-  
-  
+
   <!-- VE I have no idea with the 'with-navigation' clause below does -->
   <div id="main-wrapper"><div id="main" class="clearfix<?php if ($main_menu || $page['navigation']) { print ' with-navigation'; } ?>">
 
     <div id="content" class="column"><div class="section">
-	
-	<!-- VE - commenting out unused content 
-      <?php print render($page['highlighted']); ?>
-      <?php print $breadcrumb; ?>
-      <a id="main-content"></a>
-      <?php print render($title_prefix); ?>
-      <?php if ($title): ?>
-        <h1 class="title" id="page-title"><?php print $title; ?></h1>
-      <?php endif; ?>
-      <?php print render($title_suffix); ?>
-      <?php print $messages; ?>
-      <?php if ($tabs = render($tabs)): ?>
-        <div class="tabs"><?php print $tabs; ?></div>
-      <?php endif; ?>
-      <?php print render($page['help']); ?>
-      <?php if ($action_links): ?>
+	<?php if ($tabs = render($tabs)): ?>
+		<div class="tabs"><?php print $tabs; ?></div>
+	<?php endif; ?>
+
+	<?php print render($page['highlighted']); ?>
+	<?php print $breadcrumb; ?>
+	<a id="main-content"></a>
+	<?php print render($title_prefix); ?>
+	<?php if ($title): ?>
+		<h1 class="title" id="page-title"><?php print $title; ?></h1>
+	<?php endif; ?>
+	<?php print render($title_suffix); ?>
+	<?php print $messages; ?>
+
+	<?php print render($page['help']); ?>
+	<?php if ($action_links): ?>
         <ul class="action-links"><?php print render($action_links); ?></ul>
-      <?php endif; ?>
+	<?php endif; ?>
 	  
-	  VE commented out the above -->
+
       <?php print render($page['content']); ?>
       <!-- <?php print $feed_icons; ?> -->
     </div></div><!-- /.section, /#content -->
 
+	<!-- VE Added this region to display the Volumes block on the Overview page -->
 	
+	<?php if ($page['volumes']): ?>
+		  <div id="volumes" class="volumes"><div class="section">
+			<?php print render($page['volumes']); ?>
+		  </div></div> <!-- /.section, /#volumes -->
+	 <?php endif; ?>
 	
+	<!-- VE Added this region to display the large Buy Now & Guarantee block on the product description pages -->
+	
+	<?php if ($page['buynow']): ?>
+		  <div id="buynow" class="buynow"><div class="section">
+			<?php print render($page['buynow']); ?>
+		  </div></div> <!-- /.section, /#buynow -->
+	 <?php endif; ?>
 	<!-- VE Deleted the second navigation section to prevent second display of main navigation menu, compare original page.tpl.php -->
 
 
-    <?php print render($page['sidebar_first']); ?>
+		<?php print render($page['sidebar_first']); ?>
+		<?php print render($page['sidebar_second']); ?>
+	</div></div><!-- /#main, /#main-wrapper -->
+  
+	<?php print render($page['footer']); ?>
+  
+  
+</div><!-- /#page-wrapper -->
 
-    <?php print render($page['sidebar_second']); ?>
+<div id="footer-image">
+</div>
 
-  </div></div><!-- /#main, /#main-wrapper -->
+</div><!-- #page-body close -->
 
-  <?php print render($page['footer']); ?>
 
-</div></div><!-- /#page, /#page-wrapper -->
+
+
+
 
 <?php print render($page['bottom']); ?>
+
+
+

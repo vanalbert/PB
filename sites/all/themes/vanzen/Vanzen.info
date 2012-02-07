@@ -44,7 +44,7 @@ stylesheets[all][]        = css/navigation.css
 stylesheets[all][]        = css/views-styles.css
 stylesheets[all][]        = css/nodes.css
 stylesheets[all][]        = css/comments.css
-stylesheets[all][]        = css/forms.css
+;stylesheets[all][]        = css/forms.css
 stylesheets[all][]        = css/fields.css
 stylesheets[print][]      = css/print.css
 
@@ -85,6 +85,8 @@ regions[sidebar_second] = Second sidebar
 regions[navigation]     = Navigation bar
 regions[highlighted]    = Highlighted
 regions[content]        = Content
+regions[volumes]		= Volumes
+regions[buynow]			= Buy Now
 regions[header]         = Header
 regions[footer]         = Footer
 regions[bottom]         = Page bottom
