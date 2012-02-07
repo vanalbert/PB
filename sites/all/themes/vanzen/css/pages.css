@@ -639,7 +639,7 @@ p.footer {
 	border: 1px solid white;
 }
 
-.box-white, .volume {
+.box-white, .volume, .topics  {
 	width: 800px;
 	background-color: white;
 	border: 1px solid gold; 
