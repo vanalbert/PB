@@ -643,9 +643,14 @@ p.footer {
 	width: 800px;
 	background-color: white;
 	border: 1px solid gold; 
-	margin: 5px 35px 0 20px;
+	margin: 5px 45px 0 20px;
 	display: block;
 	height: 100%;
+}
+
+.topics {
+	width: 740px;
+	margin: 5px 35px 0 10px;
 }
 
 .volume {
@@ -884,7 +889,7 @@ p.terms, p.contact {
 	margin: 0 30px 5px 40px;
 }
 
-#terms ul {
+#terms ul, .box-white ul {
 	width: 720px;
 	font-size: 14px;
 	list-style-type: none;
@@ -1164,6 +1169,18 @@ ol.disc li {
 	width: 400px;
 
 }
+
+/* TOPIC STYLES */
+
+#topic-page h1  {
+	color: #CC0000;
+	text-align: center;
+}
+
+
+
+
+
 
 /* END CUSTOM PB STYLES - VE */
 
