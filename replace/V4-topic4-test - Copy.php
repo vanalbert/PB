@@ -55,7 +55,6 @@
 				
 <div class="topics">				
 
-	<h1> The Law of Opulence </h1>
 	<a title="The Law of Opulence" href="/the-law-of-opulence"><img height="235" width="300" class="inline-left" alt="The Law of Opulence" title="The Law of Opulence" src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/accimg16.jpg"/></a>
 	<p class="regular">The Kingdom of God is at hand &mdash; here and NOW &mdash; and may be attained under the Law of Opulence.</p>
 	<p class="regular">Lack and Limitation are only imagined.  In truth, the Universe is INFINITE and the Supply is INEXHAUSTABLE?  So why do we confine ourselves to an austere Life of Lack and Limitation?</p>
@@ -64,22 +63,7 @@
 
 	<p class="regular">A practical seven-step Success Guide, &ldquo;The Law of Opulence&rdquo; will provide you with the Blueprint for a Creative and Constructive reality.  This beautiful, inspiring Spiritual work by Wattles will dramatically impact the way you Think and Feel about Life &mdash; IMMEDIATELY!</p>
 	
-	<a title="The Law of Opulence" href="/the-law-of-opulence"><img height="100" width="700" alt="The Law of Opulence" title="The Law of Opulence" src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/divider.png"/></a>
-	<ul class="tick">
-		<li>The Kingdom of God &mdash; Why You MUST abandon the concepts of competition and a limited supply in order to reap the Abundance and Prosperity of the Creative Plane that is available to You.</li>
-		<li>Why Success attained on the Competitive Plane is not lasting Success.</li>
-		<li>Why recognition of a limited supply promotes fear, doubt and worry &mdash; all negative emotions that only attract more lack and limitation.</li>
-
-		<li>Why scarcity, lack and limitation are only states of Mind and how to dispose of them &mdash; for good!</li>
-		<li>Understanding that &ldquo;The living of life consists in continually advancing into more life,&rdquo; and that it is God&lsquo;s intention that You advance into more life (Growth).</li>
-		<li>Why it is God&lsquo;s purpose that You should have Life, and have it more Abundantly.</li>
-		<li>&ldquo;All things desire the advancement of every man.  If a man desires any good thing in order to live his life more fully, that thing desires him also.&rdquo;</li>
-		<li>Abundance &mdash; &ldquo;I come that they might have life; and that they might have it more abundantly.&rdquo;</li>
-		<li>&ldquo;God, the Mind of nature, produces the Abundance of nature with the purpose of providing for the development of man; not of some men, but of man.&rdquo;</li>
-		<li>Why Competition divides God against Himself, and thus, works against Universal Laws of Attraction and Abundance.</li>
-		<li>The Seven Requirements for Non-Competitive Success and how to implement them in Your Life Today.</li>
-	</ul>
-
+	<a title="The Law of Opulence" href="/the-law-of-opulence" class="read-more">Read More...</a>
 
 </div><!-- .topics close -->
 

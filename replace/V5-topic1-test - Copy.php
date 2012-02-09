@@ -58,11 +58,7 @@
 	<h1> A Second Courtship </h1>
 	<a title="A Second Courtship" href="/a-second-courtship"><img height="235" width="300" class="inline-left" alt="A Second Courtship" title="A Second Courtship" src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/accimg17.jpg"/></a>
 	<p class="regular">Love and marriage permeate all our lives. &ldquo;A Second Courtship&rdquo; is a tale of a married couple on the brink of divorce who find a way to revive their relationship and save their marriage.  Through proper use and diligent application of Constructive Science, as taught in Wattles&lsquo; prior works, learn HOW Love is Won &mdash; and may be Re-Won &mdash; for a Happy, Lasting and Fulfilling Marriage.  A MUST read for ALL married couples &mdash; or those who are planning Marriage!</p>
-	<a title="A Second Courtship" href="/a-second-courtship"><img height="100" width="700" alt="A Second Courtship" title="A Second Courtship" src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/divider.png"/></a>
-	<ul class="tick">
-		<li>The story of a married couple, the Bagleys, who have decided to divorce, A Second Courtship embodies the teachings of Wattles on lasting love and what is required to maintain a health, happy and lasting marriage.  Mr. Bagley still loves his wife and seeks the advice and counsel of a marriage expect, a &ldquo;Teacher of Constructive Science.&rdquo;  The expert dispenses advice straight from Wattles&lsquo; teachings, and Mr. Bagley takes action to win back the heart and love of Mrs. Bagley through application of principles of Constructive Science.</li>
-		<li>This short story provides a practical accounting and application &mdash; by way of the story &mdash; as to how to actually use Wattle&lsquo;s teachings on Love and Marriage, as articulated in his other works.</li>
-	</ul>
+	<a title="A Second Courtship" href="/a-second-courtship" class="read-more"></a>
 
 
 </div><!-- .topics close -->

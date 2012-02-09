@@ -63,21 +63,6 @@
 	<p class="regular">In this expose by Wattles, you will learn HOW Jesus&lsquo; teachings of equality relate to YOUR Universal Rights to wealth and abundance!  It will change the way YOU Think, Desire and Aspire and provide YOU the Spiritual Confidence to pursue YOUR Desires and Believe &mdash; with FAITH &mdash; that you DESERVE the Good that you Desire!</p>
 
 	<a title="Jesus: The Man And His Work" href="/jesus-the-man-and-his-work"><img height="100" width="700" alt="Jesus: The Man And His Work" title="Jesus: The Man And His Work" src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/divider.png"/></a>
-		
-	<ul class="tick">
-		<li>An in-depth accounting and interpretation of Jesus and His work directly from the Bible that you will not find in any where else.</li>
-		<li>Why your perception of Jesus is likely distorted and based on erroneous teachings.</li>
-		<li>Jesus was a Strong Man, the Supreme Man of the Highest Type.</li>
-		<li>Contrary to many beliefs, Jesus had an incredibly brilliant Mind and was friends with may aristocrats and wealthy people.</li>
-
-		<li>Jesus had an impressive, commanding, powerful personal appearance.</li>
-		<li>Jesus came for and stood for Humanity, and stood against vested religions at that time.</li>
-		<li>Why Jesus bonded with and related so well to children and why a &ldquo;child like Mind&rdquo; is essential for Spiritual Growth.  (&ldquo;Jesus took a little child and set him in the midst of them, and said: &ldquo;Whosoever shall offend one of these little ones it is better that a millstone were hanged around his neck, and he were cast into the sea.&rdquo;)</li>
-		<li>Jesus actually taught  that Abundance and Plenty are available to all, in this Life &mdash; Now.</li>
-		<li>How fear, doubt and worry are in contravention to the true teachings of Jesus that the Father provides Abundance and Prosperity to all.</li>
-		<li>Understand the REAL Christ and how organized religions have lost the true meaning of Christ and His teachings.</li>
-		<li>Why the world &mdash; then and now &mdash; wanted and wants a &ldquo;Competitive Christ;&rdquo; the real Jesus was a &ldquo;Creative Christ&rdquo; &mdash; drawing directly from the Infinitenss of God, the Father.</li>
-	</ul>
 
 </div><!-- .topics close -->
 
