@@ -54,14 +54,14 @@
 				<div id="content" class="clearfix">
 				
 <div class="topics">				
-	<h1> Mind: What Is It? </h1>
+
 	<a title="Mind: What Is It?" href="/mind-what-is-it"><img height="235" width="300" class="inline-left" alt="Mind: What Is It?" title="Mind: What Is It?" src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/accimg4.jpg"/></a>
 	
 	<p class="regular">The Law of Attraction teaches us that, as a first step, we must positively will what we Desire so as to set in motion the Universal Forces that will attract our Desire to us. This is often accomplished by taking the first practical step of surrounding ourselves with the right people &mdash; those people in harmony with what it is that we Desire. In this series of articles by Mr. Wattles, you will learn how to use your Mind to present yourself in the proper and necessary role as a leader so that you may attract others who seek the leadership you possess.  Think about it: if wealth is what you Desire, you would much rather want to attract to you wealthy people than those who live in poverty.</p>
 	<p class="regular">Our habits, conditioning and paradigms determine how we live our lives from day-to-day; but, what we fail to realize is that HOW we spend our days, leads to HOW we spend our weeks, months and years. Thus, by CHANGING our habits, conditioning and paradigms of how we view our world, we have the God-given Power and Ability to CHANGE Our World! We were given an infinitely POWERFUL Mind &mdash; as standard operating equipment at birth &mdash; and we can use it &mdash; TODAY &mdash; to alter our conditioning, eliminate bad habits, and change our paradigms and spend more of our energy on what leads us TOWARDS what it is that we Desire, rather than away from it.</p>
 	<p class="regular">We engage in various mental activities virtually non-stop &mdash; from true conscious deep thinking to mindless daydreaming.. Now imagine the incredible Power of aligning your mental activities towards purposeful, directed and focused thinking &mdash; all directed towards a specific objective, With these teachings, You will learn to do just that and leverage the Infinite Power of YOUR Mind.</p>	
 
-	<a title="Mind: What Is It?" href="/mind-what-is-it" title="Mind: What Is It?" alt="Mind: What Is It?">Read More...</a>
+	<a title="Mind: What Is It?" href="/mind-what-is-it" class="read-more" title="Mind: What Is It?" alt="Mind: What Is It?">Read More...</a>
 	
 </div><!-- .topics close -->
 
