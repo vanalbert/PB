@@ -53,7 +53,7 @@
 			<div id="main">
 				<div id="content" class="clearfix">
 				
-<div id="topic-page" class="box-white">				
+<div class="topics">				
 
 	<h1> Jesus: The Man And His Work </h1>
 	<a title="Jesus: The Man And His Work" href="/jesus-the-man-and-his-work"><img height="235" width="300" class="inline-left" alt="Jesus: The Man And His Work" title="Jesus: The Man And His Work" src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/accimg14.jpg"/></a>

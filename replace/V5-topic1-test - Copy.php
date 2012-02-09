@@ -53,15 +53,17 @@
 			<div id="main">
 				<div id="content" class="clearfix">
 				
-<div id="topic-page" class="box-white">				
+<div class="topics">				
 
-	<h1> Hell-Fire Harrison </h1>
-	<a title="Hell-Fire Harrison" href="/hell-fire-harrison"><img height="235" width="300" class="inline-left" alt="Hell-Fire Harrison" title="Hell-Fire Harrison" src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/accimg19.jpg"/></a>
-	<p class="regular">Wattles&lsquo; only full length novel (fiction), &ldquo;Hell-Fire Harrison&rdquo; is a story of romance and Honor set in England during a most violent, turbulent period when the Colonial America was under oppressive rule of the royal crown. Hell-fire Harrison, a Virginian swordsman visiting his son, Richard, at his English home, take a stand for what is right, risking life, to rid the English town of local bullies who have gained Power and wield terror.  &ldquo;Hell-Fire Harrison&rdquo; contains the original illustrations by Frank T. Merrill, a well-known and respected Victorian illustrator, whose illustrations have appeared in such well-known classics as Little Women by American author Louisa May Alcott and The Prince and the Pauper by American icon writer Mark Twain.</p>
-	<a title="Hell-Fire Harrison" href="/hell-fire-harrison"><img height="100" width="700" alt="Hell-Fire Harrison" title="Hell-Fire Harrison" src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/divider.png"/></a>
+	<h1> A Second Courtship </h1>
+	<a title="A Second Courtship" href="/a-second-courtship"><img height="235" width="300" class="inline-left" alt="A Second Courtship" title="A Second Courtship" src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/accimg17.jpg"/></a>
+	<p class="regular">Love and marriage permeate all our lives. &ldquo;A Second Courtship&rdquo; is a tale of a married couple on the brink of divorce who find a way to revive their relationship and save their marriage.  Through proper use and diligent application of Constructive Science, as taught in Wattles&lsquo; prior works, learn HOW Love is Won &mdash; and may be Re-Won &mdash; for a Happy, Lasting and Fulfilling Marriage.  A MUST read for ALL married couples &mdash; or those who are planning Marriage!</p>
+	<a title="A Second Courtship" href="/a-second-courtship"><img height="100" width="700" alt="A Second Courtship" title="A Second Courtship" src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/divider.png"/></a>
 	<ul class="tick">
-		<li>Wattles&lsquo; only full length novel, Hell-fire Harrison the story of a Virginian swordsman in colonial America who takes a trip to his home village in England to visit his son.  At that time, England is in chaos and anarchy, and from the moment of his arrival, Harrison must deal with the local bullies who have seized Power, destroying the lives of many townspeople.  Harrison, and his son, Richard, will have none of that and what follows is a story of romance, violence, action and Honor.</li>
+		<li>The story of a married couple, the Bagleys, who have decided to divorce, A Second Courtship embodies the teachings of Wattles on lasting love and what is required to maintain a health, happy and lasting marriage.  Mr. Bagley still loves his wife and seeks the advice and counsel of a marriage expect, a &ldquo;Teacher of Constructive Science.&rdquo;  The expert dispenses advice straight from Wattles&lsquo; teachings, and Mr. Bagley takes action to win back the heart and love of Mrs. Bagley through application of principles of Constructive Science.</li>
+		<li>This short story provides a practical accounting and application &mdash; by way of the story &mdash; as to how to actually use Wattle&lsquo;s teachings on Love and Marriage, as articulated in his other works.</li>
 	</ul>
+
 
 </div><!-- .topics close -->
 

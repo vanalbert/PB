@@ -51,23 +51,25 @@
 		
 		<div id="main-wrapper">
 			<div id="main">
-				<div id="content" class="clearfix">
-				
-<div id="topic-page" class="box-white">				
+<div id="content" class="clearfix">
+		<div class="topics"><a href="/the-science-of-getting-rich" title="The Science of Getting Rich"><img alt="The Science of Getting Rich" class="inline-left" src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/accimg1.jpg" title="The Science of Getting Rich" height="235" width="300"></a>&nbsp;&nbsp;
 
-	<h1> Hell-Fire Harrison </h1>
-	<a title="Hell-Fire Harrison" href="/hell-fire-harrison"><img height="235" width="300" class="inline-left" alt="Hell-Fire Harrison" title="Hell-Fire Harrison" src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/accimg19.jpg"/></a>
-	<p class="regular">Wattles&lsquo; only full length novel (fiction), &ldquo;Hell-Fire Harrison&rdquo; is a story of romance and Honor set in England during a most violent, turbulent period when the Colonial America was under oppressive rule of the royal crown. Hell-fire Harrison, a Virginian swordsman visiting his son, Richard, at his English home, take a stand for what is right, risking life, to rid the English town of local bullies who have gained Power and wield terror.  &ldquo;Hell-Fire Harrison&rdquo; contains the original illustrations by Frank T. Merrill, a well-known and respected Victorian illustrator, whose illustrations have appeared in such well-known classics as Little Women by American author Louisa May Alcott and The Prince and the Pauper by American icon writer Mark Twain.</p>
-	<a title="Hell-Fire Harrison" href="/hell-fire-harrison"><img height="100" width="700" alt="Hell-Fire Harrison" title="Hell-Fire Harrison" src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/divider.png"/></a>
-	<ul class="tick">
-		<li>Wattles&lsquo; only full length novel, Hell-fire Harrison the story of a Virginian swordsman in colonial America who takes a trip to his home village in England to visit his son.  At that time, England is in chaos and anarchy, and from the moment of his arrival, Harrison must deal with the local bullies who have seized Power, destroying the lives of many townspeople.  Harrison, and his son, Richard, will have none of that and what follows is a story of romance, violence, action and Honor.</li>
-	</ul>
+		<p class="regular">The Science of Getting Rich, later re-published as Financial Success Through Creative Thought, is Wattles‘ stunning masterpiece that provides the Scientific financial blueprint to acquire Riches and attain HONEST, SINCERE and LASTING WEALTH. You will learn that by acting and thinking in the proper ways, and by succeeding at what you do today — regardless of your present circumstances, will lead to your Success tomorrow — in whatever new (or continued) endeavor you pursue. By achieving Success one step at a time, and practicing Wattles‘ Scientific methods, as sure as the sun rises tomorrow, you SHALL achieve Prosperity and Wealth.</p>
 
-</div><!-- .topics close -->
+		<p class="regular">Learn how to leverage your Faith and work the Law of Attraction properly — through practical action and in harmony with God‘s Universal Laws. God wants Growth and Success for each one of us — his spiritual creatures. However, Faith — while a necessary and powerful ingredient — is NOT enough! Learn why Faith, alone, is not sufficient and how you can ONLY reap the rewards by combining Faith with YOUR efforts through effective thought and efficient actions. God may bring home the groceries, but He doesn‘t cook the dinner!</p>
 
+		<p class="regular">We are all visual beings, and in The Science of Getting Rich, you will learn classic “image-making” — HOW to paint a picture of what you Desire in your mind; a visual that you can carry with you every day to stay on course in making your imaginations become reality before your very eyes.</p>
 
-				</div><!-- #content close-->			
+		<a class="read-more" href="/the-science-of-getting-rich" title="The Science of Getting Rich">Read More</a>
+
+		</div>
+	<!-- .topics close -->
+
+</div><!-- #content close-->
+
+						
 		</div><!-- #main-wrapper close --> 
+
 	</div><!-- #page close -->
 </div><!-- #page-wrapper close -->
 

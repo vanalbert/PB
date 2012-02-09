@@ -58,7 +58,7 @@
 <h1> May He Rest In Peace! </h1>
 <a title="May He Rest In Peace!" href="/may-he-rest-in-peace"><img height="235" width="300" class="inline-left" alt="May He Rest In Peace!" title="May He Rest In Peace!" src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/accimg18.jpg"/></a>
 		
-<p class="regular">In &ldquo;May He Rest in Peace!&rdquo; you will be entertained by a short story of man&lsquo;s best friend as he deals with the death of his beloved owner. This unique and witty tale by Wattles allows you to draw your own conclusions about Life &mdash; and its brevity &mdash; and help YOU revaluate the priorities in YOUR Life.</p></div></div><div class="element element-image ">
+<p class="regular">In &ldquo;May He Rest in Peace!&rdquo; you will be entertained by a short story of man&lsquo;s best friend as he deals with the death of his beloved owner. This unique and witty tale by Wattles allows you to draw your own conclusions about Life &mdash; and its brevity &mdash; and help YOU revaluate the priorities in YOUR Life.</p>
 	
 <a title="May He Rest In Peace!" href="/may-he-rest-in-peace"><img height="100" width="700" alt="May He Rest In Peace!" title="May He Rest In Peace!" src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/divider.png"/></a>
 

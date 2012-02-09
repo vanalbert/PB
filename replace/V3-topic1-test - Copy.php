@@ -53,14 +53,29 @@
 			<div id="main">
 				<div id="content" class="clearfix">
 				
-<div id="topic-page" class="box-white">				
+<div class="topics">				
 
-	<h1> Hell-Fire Harrison </h1>
-	<a title="Hell-Fire Harrison" href="/hell-fire-harrison"><img height="235" width="300" class="inline-left" alt="Hell-Fire Harrison" title="Hell-Fire Harrison" src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/accimg19.jpg"/></a>
-	<p class="regular">Wattles&lsquo; only full length novel (fiction), &ldquo;Hell-Fire Harrison&rdquo; is a story of romance and Honor set in England during a most violent, turbulent period when the Colonial America was under oppressive rule of the royal crown. Hell-fire Harrison, a Virginian swordsman visiting his son, Richard, at his English home, take a stand for what is right, risking life, to rid the English town of local bullies who have gained Power and wield terror.  &ldquo;Hell-Fire Harrison&rdquo; contains the original illustrations by Frank T. Merrill, a well-known and respected Victorian illustrator, whose illustrations have appeared in such well-known classics as Little Women by American author Louisa May Alcott and The Prince and the Pauper by American icon writer Mark Twain.</p>
-	<a title="Hell-Fire Harrison" href="/hell-fire-harrison"><img height="100" width="700" alt="Hell-Fire Harrison" title="Hell-Fire Harrison" src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/divider.png"/></a>
+	<h1> The Powerful Life </h1>
+
+	<a title="The Powerful Life" href="/the-powerful-life"><img height="235" width="300" class="inline-left" alt="The Powerful Life" title="The Powerful Life" src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/accimg8.jpg"/></a>
+		
+	<p class="regular">Two kinds of people: Those who are creatures of circumstance and environment and those lead a Powerful Life by creating their circumstance and environment. All possess the Infinite Power; only a few access that Power and use it to create their circumstances.</p>
+	<p class="regular">In The Powerful Life, learn HOW the greatest individuals in history, the brightest minds, the world&lsquo;s greatest leaders &mdash; and even powerful Biblical figures &mdash; all achieved the Powerful Life by learning to THINK on a higher level and develop a close relationship with our One, Supreme Intelligence.  All great achievements start first in thought, in concept; but, unless properly cultivated and developed through strong Determination, proper Intention and with Harmony and Congruency, thoughts alone will NOT achieve Results.</p>
+	<p class="regular">We all possess Infinite Power, but do YOU know HOW to access it? In The Powerful Life, You will learn how to do just that and create the circumstances for yourself, Taking the words from Napoleon: &ldquo;Circumstances? I create Circumstances!&rdquo;</p>
+	
+	<a title="The Powerful Life" href="/the-powerful-life"><img height="100" width="700" alt="The Powerful Life" title="The Powerful Life" src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/divider.png"/></a>
 	<ul class="tick">
-		<li>Wattles&lsquo; only full length novel, Hell-fire Harrison the story of a Virginian swordsman in colonial America who takes a trip to his home village in England to visit his son.  At that time, England is in chaos and anarchy, and from the moment of his arrival, Harrison must deal with the local bullies who have seized Power, destroying the lives of many townspeople.  Harrison, and his son, Richard, will have none of that and what follows is a story of romance, violence, action and Honor.</li>
+		<li>Two kinds of people: Those who are creatures of circumstance and environment and those lead a Powerful Life by creating their circumstance and environment.</li>
+		<li>All possess the Infinite Power; only a few access that Power and use it to create their circumstances.</li>
+		<li>Understand the Infinite Power of Your Mind and how to access it.</li>
+		<li>The same Power accessed by all of the Great Men in History, such as Napoleon, Biblical figures, world leaders, and the brightest Minds in science.</li>
+		<li>The Power is Power of Mind and Your ability to access Infinite Consciousness of our God, Creative Intelligence.</li>
+
+		<li>How, as a Spiritual Being, You may become One with Spirit and open Your Mind to the Infinite Wisdom and Knowledge of God.</li>
+		<li>Learn how to THINK on a higher level so that You may attain and lead a Powerful Life.</li>
+		<li>&ldquo;There is no labor so severe and trying as sustained and consecutive thinking; and there is no labor from which the average person, whether male or female, shrinks as from the work of thought.&rdquo;</li>
+		<li>How to develop the right relationship with Supreme Intelligence to lead a Powerful Life. </li>
+		<li>Develop strong Determination and proper Intention so as to discern Truth, Harmony and Congruence with Infinite Intelligence of our Creator, for &ldquo;Every truth is present in God&lsquo;s mind as a thought; and when you perceive a truth you perceive a thought of God.  The man who can perceive the thoughts of God, and who has the Will to Do Right has entered upon the Powerful Life.&rdquo;</li>
 	</ul>
 
 </div><!-- .topics close -->

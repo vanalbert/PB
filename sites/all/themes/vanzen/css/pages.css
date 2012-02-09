@@ -648,10 +648,8 @@ p.footer {
 	height: 100%;
 }
 
-.topics {
-	width: 740px;
-	margin: 5px 35px 0 10px;
-}
+
+
 
 .volume {
 	border-top: none;
@@ -731,7 +729,7 @@ h1.intro {
 	padding: 10px 0 0 0;
 	}
 
-p.regular, p.reg-center, p.reg-justify {
+p.regular, p.reg-center, p.reg-justify, p.topics {
 	font-family: "Book Antiqua", Palatino, "Times New Roman", serif;	
 	font-size: 130%;
 	line-height: 1.2em;
@@ -1173,8 +1171,47 @@ ol.disc li {
 /* TOPIC STYLES */
 
 #topic-page h1  {
-	color: #CC0000;
+	color: #CDB13B;
 	text-align: center;
+}
+
+.topics h1  {
+	font-family: 'IM Fell DW Pica','Book Antiqua', Palatino, serif;
+	color: #CDB13B;
+	text-align: center;
+}
+
+#quicktabs-prosperity_bible_volumes a {
+	color: #CDB13B;
+}
+
+.topics p {
+
+}
+
+.ui-accordion {
+	width: 802px;
+}
+
+p.topics {
+	width:700px;
+}
+
+a.read-more {
+	font-weight: bold;
+	text-transform: uppercase;
+	margin: 0 0 0 40px;
+}
+
+a:read-more:hover {
+	color: red;
+}
+
+.topics {
+	font-size: 14px;
+	width:760px;
+	border: none;
+	margin: 5px 0 0 -15px;
 }
 
 

@@ -53,7 +53,7 @@
 			<div id="main">
 				<div id="content" class="clearfix">
 				
-<div id="topic-page" class="box-white">				
+<div class="topics">				
 
 	<h1> Scientific Marriage </h1>
 	<a title="Scientific Marriage" href="/scientific-marriage"><img height="235" width="300" class="inline-left" alt="Scientific Marriage" title="Scientific Marriage" src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/accimg12.jpg"/></a>

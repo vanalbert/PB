@@ -53,7 +53,7 @@
 			<div id="main">
 				<div id="content" class="clearfix">
 				
-<div id="topic-page" class="box-white">				
+<div class="topics">				
 
 	<h1> Hell-Fire Harrison </h1>
 	<a title="Hell-Fire Harrison" href="/hell-fire-harrison"><img height="235" width="300" class="inline-left" alt="Hell-Fire Harrison" title="Hell-Fire Harrison" src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/accimg19.jpg"/></a>

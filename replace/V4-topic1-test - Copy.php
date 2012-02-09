@@ -53,15 +53,31 @@
 			<div id="main">
 				<div id="content" class="clearfix">
 				
-<div id="topic-page" class="box-white">				
+<div class="topics">				
 
-	<h1> Hell-Fire Harrison </h1>
-	<a title="Hell-Fire Harrison" href="/hell-fire-harrison"><img height="235" width="300" class="inline-left" alt="Hell-Fire Harrison" title="Hell-Fire Harrison" src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/accimg19.jpg"/></a>
-	<p class="regular">Wattles&lsquo; only full length novel (fiction), &ldquo;Hell-Fire Harrison&rdquo; is a story of romance and Honor set in England during a most violent, turbulent period when the Colonial America was under oppressive rule of the royal crown. Hell-fire Harrison, a Virginian swordsman visiting his son, Richard, at his English home, take a stand for what is right, risking life, to rid the English town of local bullies who have gained Power and wield terror.  &ldquo;Hell-Fire Harrison&rdquo; contains the original illustrations by Frank T. Merrill, a well-known and respected Victorian illustrator, whose illustrations have appeared in such well-known classics as Little Women by American author Louisa May Alcott and The Prince and the Pauper by American icon writer Mark Twain.</p>
-	<a title="Hell-Fire Harrison" href="/hell-fire-harrison"><img height="100" width="700" alt="Hell-Fire Harrison" title="Hell-Fire Harrison" src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/divider.png"/></a>
+	<h1> God: The Servant of Man </h1>
+	<a title="God: The Servant of Man" href="/god-the-servant-of-man"><img height="235" width="300" class="inline-left" alt="God: The Servant of Man" title="God: The Servant of Man" src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/accimg13.jpg"/></a>
+	<p class="regular">The Universal Laws were established by one Supreme Intelligence: God.  In &ldquo;God: The Servant of Man,&rdquo; you will gain a new understanding of our Creator, His Laws, and HOW you can &mdash; TODAY &mdash; begin living YOUR Life in Harmony with those Laws to achieve an Abundant, Prosperous and Full Life!</p>
+	<p class="regular">If your notion of God is an old man with a long beard sitting in a cloud &mdash; it&lsquo;s time to move on!  God is Infinite, All-Powerful and One.  And, the great news is that the Supreme Intelligence is ever, omnipresent to SERVE US!  But first, we MUST re-tool our Thinking, open our Consciousness, and work WITH God&lsquo;s Laws.</p>
+	<p class="regular">&ldquo;God: The Servant Man&rdquo; provides the Spiritual Blueprint to lead and live a Spiritual Life.  While understanding the Laws is only the beginning, in this POWERFUL manual, you will also learn the specific Scientific Methods by which to apply the Power of God to resolve your personal obstacles and challenges and achieve the Good that you Desire and Deserve!</p>
+	
+	<a title="God: The Servant of Man" href="/god-the-servant-of-man"><img height="100" width="700" alt="God: The Servant of Man" title="God: The Servant of Man" src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/divider.png"/></a>
 	<ul class="tick">
-		<li>Wattles&lsquo; only full length novel, Hell-fire Harrison the story of a Virginian swordsman in colonial America who takes a trip to his home village in England to visit his son.  At that time, England is in chaos and anarchy, and from the moment of his arrival, Harrison must deal with the local bullies who have seized Power, destroying the lives of many townspeople.  Harrison, and his son, Richard, will have none of that and what follows is a story of romance, violence, action and Honor.</li>
+		<li>Understanding the &ldquo;uni&rdquo;-versal nature of Universal Laws and why they work with mathematical and scientific precision.</li>
+		<li>Universal Laws were established by God, Supreme Intelligence, and therefore MUST work with exactness every time, all times.  A Law is not a Law if it only works some of the time.</li>
+		<li>Why &ldquo;Directivity&rdquo; flows from Supreme Intelligence.</li>
+		<li>Learn how the Laws of the Universe are available for Your use, towards any noble objective and for the Good of the Universe. (&ldquo;Man may direct infinite power, so long as man&lsquo;s purposes have the sanction of infinite intelligence.&rdquo;)</li>
+		<li>How Jesus had direct access to the Universal Laws and how He directed Infinite Intelligence during His human ministry.</li>
+
+		<li>How to align Your Will with that of Supreme Intelligence in order to attain your Desires.</li>
+		<li>Why it is important to let God direct the means by which Your Desire will be realized and why &ldquo;dictating&rdquo; such precise means will work against You.</li>
+		<li>How to &ldquo;let go and let God.&rdquo;</li>
+		<li>Specific Methods for apply the power of God to the solution of Your own problems and how to use it in overcoming Your personal difficulties.</li>
+		<li>How to examine and analyze Your hopes and motives for seeking what You Desire and determining whether they are congruent with the Will of God.</li>
+		<li>Learn how to Surrender to Divine Providence in order to attain Your Desires.</li>
 	</ul>
+
+
 
 </div><!-- .topics close -->
 

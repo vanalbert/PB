@@ -62,7 +62,7 @@
 	<p class="regular">In &ldquo;The Law of Opulence,&rdquo; you will learn WHY you MUST abandon the concepts of competition and a limited supply in order to reap the Abundance and Prosperity of the Creative Plane that is available to You &mdash; RIGHT NOW!</p>
 	<p class="regular">Lasting, Honest and Sincere Success and Prosperity are NOT gained through Competition.  Only by focusing YOUR Thoughts and Actions according to Constructive Science on the Creative Plane will you Advance and Attain the Good that you Desire.</p>
 
-	<p class="regular">A practical seven-step Success Guide, &ldquo;The Law of Opulence&rdquo; will provide you with the Blueprint for a Creative and Constructive reality.  This beautiful, inspiring Spiritual work by Wattles will dramatically impact the way you Think and Feel about Life &mdash; IMMEDIATELY!</p></div></div><div class="element element-image ">
+	<p class="regular">A practical seven-step Success Guide, &ldquo;The Law of Opulence&rdquo; will provide you with the Blueprint for a Creative and Constructive reality.  This beautiful, inspiring Spiritual work by Wattles will dramatically impact the way you Think and Feel about Life &mdash; IMMEDIATELY!</p>
 	
 	<a title="The Law of Opulence" href="/the-law-of-opulence"><img height="100" width="700" alt="The Law of Opulence" title="The Law of Opulence" src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/divider.png"/></a>
 	<ul class="tick">

@@ -53,16 +53,16 @@
 			<div id="main">
 				<div id="content" class="clearfix">
 				
-<div id="topic-page" class="box-white">				
+<div class="topics">				
+	<h1> Mind: What Is It? </h1>
+	<a title="Mind: What Is It?" href="/mind-what-is-it"><img height="235" width="300" class="inline-left" alt="Mind: What Is It?" title="Mind: What Is It?" src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/accimg4.jpg"/></a>
+	
+	<p class="regular">The Law of Attraction teaches us that, as a first step, we must positively will what we Desire so as to set in motion the Universal Forces that will attract our Desire to us. This is often accomplished by taking the first practical step of surrounding ourselves with the right people &mdash; those people in harmony with what it is that we Desire. In this series of articles by Mr. Wattles, you will learn how to use your Mind to present yourself in the proper and necessary role as a leader so that you may attract others who seek the leadership you possess.  Think about it: if wealth is what you Desire, you would much rather want to attract to you wealthy people than those who live in poverty.</p>
+	<p class="regular">Our habits, conditioning and paradigms determine how we live our lives from day-to-day; but, what we fail to realize is that HOW we spend our days, leads to HOW we spend our weeks, months and years. Thus, by CHANGING our habits, conditioning and paradigms of how we view our world, we have the God-given Power and Ability to CHANGE Our World! We were given an infinitely POWERFUL Mind &mdash; as standard operating equipment at birth &mdash; and we can use it &mdash; TODAY &mdash; to alter our conditioning, eliminate bad habits, and change our paradigms and spend more of our energy on what leads us TOWARDS what it is that we Desire, rather than away from it.</p>
+	<p class="regular">We engage in various mental activities virtually non-stop &mdash; from true conscious deep thinking to mindless daydreaming.. Now imagine the incredible Power of aligning your mental activities towards purposeful, directed and focused thinking &mdash; all directed towards a specific objective, With these teachings, You will learn to do just that and leverage the Infinite Power of YOUR Mind.</p>	
 
-	<h1> Hell-Fire Harrison </h1>
-	<a title="Hell-Fire Harrison" href="/hell-fire-harrison"><img height="235" width="300" class="inline-left" alt="Hell-Fire Harrison" title="Hell-Fire Harrison" src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/accimg19.jpg"/></a>
-	<p class="regular">Wattles&lsquo; only full length novel (fiction), &ldquo;Hell-Fire Harrison&rdquo; is a story of romance and Honor set in England during a most violent, turbulent period when the Colonial America was under oppressive rule of the royal crown. Hell-fire Harrison, a Virginian swordsman visiting his son, Richard, at his English home, take a stand for what is right, risking life, to rid the English town of local bullies who have gained Power and wield terror.  &ldquo;Hell-Fire Harrison&rdquo; contains the original illustrations by Frank T. Merrill, a well-known and respected Victorian illustrator, whose illustrations have appeared in such well-known classics as Little Women by American author Louisa May Alcott and The Prince and the Pauper by American icon writer Mark Twain.</p>
-	<a title="Hell-Fire Harrison" href="/hell-fire-harrison"><img height="100" width="700" alt="Hell-Fire Harrison" title="Hell-Fire Harrison" src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/divider.png"/></a>
-	<ul class="tick">
-		<li>Wattles&lsquo; only full length novel, Hell-fire Harrison the story of a Virginian swordsman in colonial America who takes a trip to his home village in England to visit his son.  At that time, England is in chaos and anarchy, and from the moment of his arrival, Harrison must deal with the local bullies who have seized Power, destroying the lives of many townspeople.  Harrison, and his son, Richard, will have none of that and what follows is a story of romance, violence, action and Honor.</li>
-	</ul>
-
+	<a title="Mind: What Is It?" href="/mind-what-is-it" title="Mind: What Is It?" alt="Mind: What Is It?">Read More...</a>
+	
 </div><!-- .topics close -->
 
 

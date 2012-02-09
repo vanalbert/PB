@@ -53,7 +53,7 @@
 			<div id="main">
 				<div id="content" class="clearfix">
 				
-<div id="topic-page" class="box-white">				
+<div class="topics">				
 
 	<h1> How To Promote Yourself </h1>
 	<a title="How To Promote Yourself" href="/home/item/how-to-promote-yourself"><img height="235" width="300" alt="How To Promote Yourself" class="inline-left" title="How To Promote Yourself" src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/stories/accimg10.jpg"/></a>

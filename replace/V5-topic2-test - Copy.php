@@ -53,15 +53,19 @@
 			<div id="main">
 				<div id="content" class="clearfix">
 				
-<div id="topic-page" class="box-white">				
+<div class="topics">				
 
-	<h1> Hell-Fire Harrison </h1>
-	<a title="Hell-Fire Harrison" href="/hell-fire-harrison"><img height="235" width="300" class="inline-left" alt="Hell-Fire Harrison" title="Hell-Fire Harrison" src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/accimg19.jpg"/></a>
-	<p class="regular">Wattles&lsquo; only full length novel (fiction), &ldquo;Hell-Fire Harrison&rdquo; is a story of romance and Honor set in England during a most violent, turbulent period when the Colonial America was under oppressive rule of the royal crown. Hell-fire Harrison, a Virginian swordsman visiting his son, Richard, at his English home, take a stand for what is right, risking life, to rid the English town of local bullies who have gained Power and wield terror.  &ldquo;Hell-Fire Harrison&rdquo; contains the original illustrations by Frank T. Merrill, a well-known and respected Victorian illustrator, whose illustrations have appeared in such well-known classics as Little Women by American author Louisa May Alcott and The Prince and the Pauper by American icon writer Mark Twain.</p>
-	<a title="Hell-Fire Harrison" href="/hell-fire-harrison"><img height="100" width="700" alt="Hell-Fire Harrison" title="Hell-Fire Harrison" src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/divider.png"/></a>
-	<ul class="tick">
-		<li>Wattles&lsquo; only full length novel, Hell-fire Harrison the story of a Virginian swordsman in colonial America who takes a trip to his home village in England to visit his son.  At that time, England is in chaos and anarchy, and from the moment of his arrival, Harrison must deal with the local bullies who have seized Power, destroying the lives of many townspeople.  Harrison, and his son, Richard, will have none of that and what follows is a story of romance, violence, action and Honor.</li>
-	</ul>
+<h1> May He Rest In Peace! </h1>
+<a title="May He Rest In Peace!" href="/may-he-rest-in-peace"><img height="235" width="300" class="inline-left" alt="May He Rest In Peace!" title="May He Rest In Peace!" src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/accimg18.jpg"/></a>
+		
+<p class="regular">In &ldquo;May He Rest in Peace!&rdquo; you will be entertained by a short story of man&lsquo;s best friend as he deals with the death of his beloved owner. This unique and witty tale by Wattles allows you to draw your own conclusions about Life &mdash; and its brevity &mdash; and help YOU revaluate the priorities in YOUR Life.</p>
+	
+<a title="May He Rest In Peace!" href="/may-he-rest-in-peace"><img height="100" width="700" alt="May He Rest In Peace!" title="May He Rest In Peace!" src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/divider.png"/></a>
+
+<ul class="tick">
+<li>A unique, interesting short story, May He Rest in Peace! is about a dog unable to rest after his human owner passes away.  An entertaining piece, the story ends in such a manner that allows the reader to draw the conclusion or message of the story (if any!).</li>
+</ul>
+
 
 </div><!-- .topics close -->
 

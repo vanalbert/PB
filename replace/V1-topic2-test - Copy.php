@@ -53,17 +53,26 @@
 			<div id="main">
 				<div id="content" class="clearfix">
 				
-<div id="topic-page" class="box-white">				
 
-	<h1> Hell-Fire Harrison </h1>
-	<a title="Hell-Fire Harrison" href="/hell-fire-harrison"><img height="235" width="300" class="inline-left" alt="Hell-Fire Harrison" title="Hell-Fire Harrison" src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/accimg19.jpg"/></a>
-	<p class="regular">Wattles&lsquo; only full length novel (fiction), &ldquo;Hell-Fire Harrison&rdquo; is a story of romance and Honor set in England during a most violent, turbulent period when the Colonial America was under oppressive rule of the royal crown. Hell-fire Harrison, a Virginian swordsman visiting his son, Richard, at his English home, take a stand for what is right, risking life, to rid the English town of local bullies who have gained Power and wield terror.  &ldquo;Hell-Fire Harrison&rdquo; contains the original illustrations by Frank T. Merrill, a well-known and respected Victorian illustrator, whose illustrations have appeared in such well-known classics as Little Women by American author Louisa May Alcott and The Prince and the Pauper by American icon writer Mark Twain.</p>
-	<a title="Hell-Fire Harrison" href="/hell-fire-harrison"><img height="100" width="700" alt="Hell-Fire Harrison" title="Hell-Fire Harrison" src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/divider.png"/></a>
-	<ul class="tick">
-		<li>Wattles&lsquo; only full length novel, Hell-fire Harrison the story of a Virginian swordsman in colonial America who takes a trip to his home village in England to visit his son.  At that time, England is in chaos and anarchy, and from the moment of his arrival, Harrison must deal with the local bullies who have seized Power, destroying the lives of many townspeople.  Harrison, and his son, Richard, will have none of that and what follows is a story of romance, violence, action and Honor.</li>
-	</ul>
+		
+<div class="topics">
 
-</div><!-- .topics close -->
+<a href="/the-science-of-being-well" title="The Science of Being Well"><img alt="The Science of Being Well" class="inline-left" src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/accimg2.jpg" title="The Science of Being Well" height="235" width="300"></a>
+
+<p class="topics">You may have heard others say and may have even repeated the metaphor that “your strongest muscle is your mind,” but have you considered what that truly means? In The Science of Being Well, later re-published as How to be a Genius, you will learn how thinking Healthy is the first step to becoming Healthy.</p>
+
+<p class="topics">Learn how the simplest actions we do without thinking, such as breathing, affect our wellbeing; how actions repeated thousands of times, no matter how small or seemingly insignificant, can generate powerful and long lasting results.</p>
+
+<p class="topics">Did you know that there is a proper Scientific way to breathe, sleep and eat that actually promotes Health within the body? Did you know that you can “program” the individual cells in your body — that, among other things, comprise your subconscious mind — in order to attain Health and heal sickness? Did you know that matters such as “stress,” “anxiety,” “fear,” “worry,” are REALLY states of Mind and symptoms of underlying ill-health? And, that through proper, Healthy Living, you can overcome these strong negative effects and live a longer, healthier life? You know, you can!</p>
+
+<p class="topics">Our bodies are amazing and continue to perplex doctors and scientists. Learn how listening to your own body will make you your own best clinician and help you diagnose what ails you and what you truly need.</p>
+
+&nbsp;
+
+<a class="read-more" href="/the-science-of-being-well" title="The Science of Being Well">Read More...</a>
+
+</div>
+<!-- .topics close -->
 
 
 				</div><!-- #content close-->			

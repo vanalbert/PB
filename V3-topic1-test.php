@@ -61,7 +61,7 @@
 		
 	<p class="regular">Two kinds of people: Those who are creatures of circumstance and environment and those lead a Powerful Life by creating their circumstance and environment. All possess the Infinite Power; only a few access that Power and use it to create their circumstances.</p>
 	<p class="regular">In The Powerful Life, learn HOW the greatest individuals in history, the brightest minds, the world&lsquo;s greatest leaders &mdash; and even powerful Biblical figures &mdash; all achieved the Powerful Life by learning to THINK on a higher level and develop a close relationship with our One, Supreme Intelligence.  All great achievements start first in thought, in concept; but, unless properly cultivated and developed through strong Determination, proper Intention and with Harmony and Congruency, thoughts alone will NOT achieve Results.</p>
-	<p class="regular">We all possess Infinite Power, but do YOU know HOW to access it? In The Powerful Life, You will learn how to do just that and create the circumstances for yourself, Taking the words from Napoleon: &ldquo;Circumstances? I create Circumstances!&rdquo;</p></div></div><div class="element element-image ">
+	<p class="regular">We all possess Infinite Power, but do YOU know HOW to access it? In The Powerful Life, You will learn how to do just that and create the circumstances for yourself, Taking the words from Napoleon: &ldquo;Circumstances? I create Circumstances!&rdquo;</p>
 	
 	<a title="The Powerful Life" href="/the-powerful-life"><img height="100" width="700" alt="The Powerful Life" title="The Powerful Life" src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/divider.png"/></a>
 	<ul class="tick">

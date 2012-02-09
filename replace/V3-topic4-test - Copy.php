@@ -53,7 +53,7 @@
 			<div id="main">
 				<div id="content" class="clearfix">
 				
-<div id="topic-page" class="box-white">				
+<div class="topics">				
 
 
 <h1> Health Through New Thought and Fasting </h1>

@@ -53,7 +53,7 @@
 			<div id="main">
 				<div id="content" class="clearfix">
 				
-<div id="topic-page" class="box-white">				
+<div class="topics">				
 
 	<h1> What Christ Says </h1>
 	<a title="What Christ Says" href="/what-christ-says"><img height="235" width="300" alt="What Christ Says" class="inline-left" title="What Christ Says" src="http://www.prosperitybible.com/images/stories/accimg15.jpg"/></a>
