@@ -1389,3 +1389,139 @@ ul#superfish-1 .active-trail {
 	padding: 0;
 	display: block;
 }
+
+
+/* AWeber Styles */
+
+#aweber-box {
+	font-family: "Lucida Grande","Lucida Sans","Lucida Sans Unicode","Lucida",Verdana,"Bitstream Vera Sans",sans-serif;	
+	width: 798px;
+	background-color: #FFFFFF;
+	border: 1px solid gold; 
+	margin: 15px 45px 0 0px;
+	height: 265px;
+}
+
+#aweber-box h3.subscribe {
+	color: #CBB344;
+	text-align: center;
+	text-transform: uppercase;
+	text-decoration: underline;
+	margin: 10px 0 10px 0;
+}
+
+#aweber-box fieldset legend {
+font-size: 12px;
+background-color: #FFFFFF;
+width: 170px;
+margin: -15px 0 0 0;
+padding-left: 10px;
+}
+
+#aweber-box span.subscribe {
+	color: #E52F05;
+	}
+
+#aweber-box p {
+	text-align: center;
+	font-family: "Lucida Grande","Lucida Sans","Lucida Sans Unicode","Lucida",Verdana,"Bitstream Vera Sans",sans-serif;	
+	margin: 0;
+}
+
+#aweber-box  fieldset {
+	height: 125px;
+	margin: 15px 0 0 10px;
+}
+
+#aweber-box h4 {
+	text-align: center;
+	font-size: 14px;
+	color: #252525;
+	margin: 20px 0 0px 0;
+}
+
+#aweber-box p.spam {
+	font-size: 12px;
+	color: #252525;
+	
+}
+
+149881181 select {
+    font-size: 100%;
+}
+
+#af-form-149881181 button, #af-form-149881181 input, #af-form-149881181 submit, #af-form-149881181 textarea, #af-form-149881181 select, #af-form-149881181 label, #af-form-149881181 optgroup, #af-form-149881181 option {
+    float: none;
+    margin: 0;
+    position: static;
+}
+
+#aweber-box  input.text {
+    float: none;
+    padding: 2px !important;
+    width: 100%;
+}
+
+
+.af-form-wrapper {
+    text-indent: 0;
+}
+
+#af-form-149881181 form, #af-form-149881181 textarea, .af-form-wrapper, .af-form-close-button, #af-form-149881181 img {
+    color: inherit;
+}
+
+#af-form-149881181 p {
+    color: inherit;
+}
+
+#af-form-149881181 .af-header {
+    border-style: none;
+    color: inherit;
+    font-family: Verdana,sans-serif;
+    font-size: 16px;
+}
+
+#body-content {
+	width: 400px;
+	float: left;
+	margin: 0;
+}
+
+#form-content {
+	margin: 0 0 0 20px;
+	float: left;
+}
+
+#af-form-149881181 .af-body input.text, #awf_field-3564307 input.text, #af-form-149881181 .af-body textarea {
+	width: 300px;
+    background-color: #FFFFFF;
+    border-color: #919191;
+    border-style: solid;
+    border-width: 1px;
+    color: #000000;
+    font-family: Tahoma,serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+#af-form-149881181 input, #af-form-149881181 button, #af-form-149881181 textarea, #af-form-149881181 select {
+    font-size: 100%;
+}
+
+#af-form-149881181 .buttonContainer input.submit {
+    background-color: #CBB344;
+    /* background-image: url("http://forms.aweber.com/images/auto/gradient/button/07c.png"); */
+    background-position: left top;
+    background-repeat: repeat-x;
+    border: 1px solid #0057AC;
+    color: #FFFFFF;
+    font-family: Verdana,sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: none;
+	margin: 10px 0 0 120px;
+}

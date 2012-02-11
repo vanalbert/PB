@@ -51,60 +51,80 @@
 		
 		<div id="main-wrapper">
 			<div id="main">
-				<div id="content" class="clearfix">	
-<div id="aweber-box" class="clearfix">
-	<form class="af-form-wrapper" target="_new" action="http://www.aweber.com/scripts/addlead.pl" method="post">
-		<div style="display: none;">
-			<input type="hidden" value="149881181" name="meta_web_form_id">
-			<input type="hidden" value="" name="meta_split_id">
-			<input type="hidden" value="successmanual" name="listname">
-			<input id="redirect_f29fb6ce92cd776ebde764c565b83834" type="hidden" value="http://www.aweber.com/thankyou-coi.htm?m=audio" name="redirect">
-			<input type="hidden" value="Success_Manual_Web_Site" name="meta_adtracking">
-			<input type="hidden" value="1" name="meta_message">
-			<input type="hidden" value="name,email" name="meta_required">
-			<input type="hidden" value="" name="meta_tooltip">
-		</div>
-		<div id="af-form-149881181" class="af-form">
-			<div id="body-content" class="bodyText">
-					<h3 class="subscribe">Join The Community!</h3>
-					<p><strong><span class="subscribe">SUBSCRIBE</span> to <span class="subscribe">The SUCCESS BEACON </span></p>
-					<p><span class="subscribe"><span class="uline">FREE</span> Email Newsletter</span></strong></p>
-					<h4>We Hate Spam Too!</h4>
-					<p class="spam">We will NEVER give your email out to ANYONE!</span>
-			</div><!-- #body-content close -->
-			<div id="form-content">
-				<fieldset>
-					<div id="af-body-149881181" class="af-body af-standards">
-						<div class="af-element">
-							<legend>Subscribe To Our Newsletter</legend>
-							<label class="previewLabel" for="awf_field-3564306">First Name: </label>
-						</div>
-						<div class="af-textWrap">
-							<input id="awf_field-3564306" class="text" type="text" tabindex="500" value="" name="name">
-						</div>
-						<div class="af-clear"></div>
-						<div class="af-element">
-							<label class="previewLabel" for="awf_field-3564307">Email: </label>
-						</div>
-						<div class="af-textWrap">
-							<input id="awf_field-3564307" class="text" type="text" tabindex="501" value="" name="email">												
-						</div>
-						<div class="af-clear"></div>
-						<div class="af-element buttonContainer">
-							<input class="submit" type="submit" tabindex="502" value="Submit" name="submit">
-								<div class="af-clear"></div>
-						</div>
-						<div class="af-element privacyPolicy" style="text-align: center">
-							<p>
-							<div class="af-clear"></div>
-						</div>
-					</div>
-				</fieldset>
-			</div><!-- #form-content close -->
-			<div class="divider"><img src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/divider.png"></div>
-		</div>
-	</form>
-</div>	
+				<div id="content" class="clearfix">
+
+				
+				
+					<div id="aweber-box" class="clearfix">
+
+
+
+						<form class="af-form-wrapper" target="_new" action="http://www.aweber.com/scripts/addlead.pl" method="post">
+							<div style="display: none;">
+								<input type="hidden" value="149881181" name="meta_web_form_id">
+								<input type="hidden" value="" name="meta_split_id">
+								<input type="hidden" value="successmanual" name="listname">
+								<input id="redirect_f29fb6ce92cd776ebde764c565b83834" type="hidden" value="http://www.aweber.com/thankyou-coi.htm?m=audio" name="redirect">
+								<input type="hidden" value="Success_Manual_Web_Site" name="meta_adtracking">
+								<input type="hidden" value="1" name="meta_message">
+								<input type="hidden" value="name,email" name="meta_required">
+								<input type="hidden" value="" name="meta_tooltip">
+							</div>
+							<div id="af-form-149881181" class="af-form">
+								<div id="body-content" class="bodyText">
+										<p>
+										<strong>
+										<span style="font-family: tahoma,arial,helvetica,sans-serif; color: #0000cd; font-size: 12px;">
+										<span style="text-decoration: underline;">
+										<span style="font-size: 14px;">SUBSCRIBE</span>
+										</span>
+						
+										<span style="font-size: 14px;">The SUCCESS BEACON</span>
+										<span style="color: #ff0000;">
+										<span style="text-decoration: underline;">
+										<span style="font-size: 14px;">FREE</span>
+										</span>
+										</span>
+										<span style="font-size: 13px;">Email Newsletter</span>
+										</span>
+										</strong>
+										</p>
+									</div>
+									<div id="form-content">
+										<fieldset>
+											<div id="af-body-149881181" class="af-body af-standards">
+												<div class="af-element">
+													<label class="previewLabel" for="awf_field-3564306">First Name: </label>
+												</div>
+												<div class="af-textWrap">
+													<input id="awf_field-3564306" class="text" type="text" tabindex="500" value="" name="name">
+												</div>
+												<div class="af-clear"></div>
+											</div>
+											<div class="af-element">
+												<label class="previewLabel" for="awf_field-3564307">Email: </label>
+												<div class="af-textWrap">
+													<div class="af-clear"></div>
+												</div>
+												<div>
+												<input id="awf_field-3564307" class="text" type="text" tabindex="501" value="" name="email">
+												</div>
+												<div class="af-element buttonContainer">
+												<input class="submit" type="submit" tabindex="502" value="Submit" name="submit">
+													<div class="af-clear"></div>
+												</div>
+												<div class="af-element privacyPolicy" style="text-align: center">
+												<p>
+													<div class="af-clear"></div>
+												</div>
+											</div>
+										</fieldset>
+									</div><!-- #form-content close -->
+							</div>
+
+						</form>
+
+					</div>	
 
 				</div><!-- #content close-->
 			</div>			

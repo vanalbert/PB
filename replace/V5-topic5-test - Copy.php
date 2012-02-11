@@ -58,9 +58,8 @@
 	<a title="The Lost Sequel To &lsquo;As A Grain Of Mustard Seed&lsquo;" href="/the-lost-sequel-to-as-a-grain-of-mustard-seed"><img height="235" width="300" class="inline-left" alt="The Lost Sequel To &lsquo;As A Grain Of Mustard Seed&lsquo;" title="The Lost Sequel To &lsquo;As A Grain Of Mustard Seed&lsquo;" src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/accimg21.jpg"/></a>
 	<p class="regular">After Wattles&lsquo; untimely death at the age of 51, when the final two chapters of &ldquo;As A Grain of Mustard Seed&rdquo; were published in a magazine, the publisher announced a writing competition for a sequel.  There was a winner to the publisher&lsquo;s contest and &ldquo;The Lost Sequel&rdquo; is the winning story by Katherine Quinn &mdash; a conclusion to the story of Jason Packet, the only character in Wattles&lsquo; original story that failed to transform his wrong ways through the Power of FAITH.</p>
 	
-	<a title="The Lost Sequel To ‘As A Grain Of Mustard Seed&lsquo;" href="/the-lost-sequel-to-as-a-grain-of-mustard-seed"><img height="100" width="700" alt="The Lost Sequel To ‘As A Grain Of Mustard Seed&lsquo;" title="The Lost Sequel To ‘As A Grain Of Mustard Seed&lsquo;" src="http://local.prosperitybible.com/sites/all/themes/vanzen/images/divider.png"/></a>
-	<p class="regular"><em>As a Grain of Mustard Seed </em>by Wallace D. Wattles was originally published as a series of short stories in a magazine in 1910-1911.  After Mr. Wattles died in 1911 at the age of 51, the final two chapters of the story were published, and in the monthly issue of the magazine in which those two chapters were published, the publisher announced a contest for a sequel to <em>As a Grain of Mustard Seed </em>b.  Since Jason Packet was the only main character in original Wattles&lsquo; story who failed to transform his wrong ways and learn from the Power of Faith, the publisher was seeking a sequel wherein &ldquo;Jason is saved.&rdquo;</p>
-	<p>There was a winner to the publisher&lsquo;s contest and &ldquo;The Lost Sequel&rdquo; is the winning story by Katherine Quinn.  A charming finish to a purely-Wattles tale.</p>
+	<a title="The Lost Sequel To ‘As A Grain Of Mustard Seed&lsquo;" href="/the-lost-sequel-to-as-a-grain-of-mustard-seed" class="read-more">Read More...</a>
+
 
 </div><!-- .topics close -->
 
